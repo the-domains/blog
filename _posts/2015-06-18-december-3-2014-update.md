@@ -12,7 +12,7 @@ publisher:
   url: null
   favicon: null
 datePublished: '2015-06-18T01:52:30.418Z'
-dateModified: '2015-06-18T01:52:30.418Z'
+dateModified: '2015-06-19T07:51:15.495Z'
 sourcePath: _posts/2015-06-18-december-3-2014-update.md
 published: true
 _type: null
