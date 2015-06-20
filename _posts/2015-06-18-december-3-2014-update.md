@@ -1,20 +1,20 @@
 ---
-isBasedOnUrl: null
-inLanguage: null
-starred: false
-keywords: []
 description: ''
-title: 'December 3, 2014 Update'
+datePublished: '2015-06-18T01:52:30.418Z'
+inLanguage: null
+published: true
+starred: false
 authors: []
+sourcePath: _posts/2015-06-18-december-3-2014-update.md
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
-datePublished: '2015-06-18T01:52:30.418Z'
-dateModified: '2015-06-19T07:51:15.495Z'
-sourcePath: _posts/2015-06-18-december-3-2014-update.md
-published: true
+title: 'December 3, 2014 Update'
+isBasedOnUrl: null
+keywords: []
+dateModified: '2015-06-20T08:53:26.612Z'
 _type: null
 
 ---
