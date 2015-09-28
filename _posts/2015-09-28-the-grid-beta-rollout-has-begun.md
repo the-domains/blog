@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&id=3137e56aa1'
 title: "The Grid - Beta Rollout Has Begun \uD83D\uDE80"
-datePublished: '2015-09-28T19:02:20.864Z'
-dateModified: '2015-09-28T19:01:24.564Z'
+datePublished: '2015-09-28T19:12:46.234Z'
+dateModified: '2015-09-28T19:02:20.864Z'
 sourcePath: _posts/2015-09-28-the-grid-beta-rollout-has-begun.md
 published: true
 _context: 'http://schema.org'
