@@ -1,24 +1,26 @@
 ---
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
 title: 'Founding Member Update #1'
-dateModified: '2015-09-28T19:46:20.357Z'
+dateModified: '2015-09-28T20:03:13.154Z'
 tags:
   - December
   - '3,'
   - '2014'
+datePublished: '2015-09-28T20:03:23.637Z'
+sourcePath: _posts/2015-09-28-founding-member-update-1.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-28T19:46:41.075Z'
-sourcePath: _posts/2015-09-28-founding-member-update-1.md
-published: true
-_type: MediaObject
+url: founding-member-update-1/index.html
+_type: Article
 
 ---
 Founding Members, 
