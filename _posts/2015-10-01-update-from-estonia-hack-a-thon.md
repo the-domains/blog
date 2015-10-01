@@ -5,7 +5,7 @@ starred: false
 keywords: []
 description: ''
 title: Update from Estonia Hack-a-Thon
-dateModified: '2015-10-01T16:38:55.329Z'
+dateModified: '2015-10-01T17:17:40.528Z'
 tags:
   - ''
 authors: []
@@ -14,7 +14,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-10-01T17:17:40.528Z'
+datePublished: '2015-10-01T17:20:19.061Z'
 sourcePath: _posts/2015-10-01-update-from-estonia-hack-a-thon.md
 published: true
 url: update-from-estonia-hack-a-thon/index.html
