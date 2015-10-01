@@ -5,7 +5,7 @@ starred: false
 keywords: []
 description: 'By Dan Tocchini IV, Founder & CEO'
 title: Update from Estonia
-dateModified: '2015-10-01T18:21:10.623Z'
+dateModified: '2015-10-01T18:21:22.262Z'
 tags:
   - ''
 authors: []
@@ -14,7 +14,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-10-01T18:21:22.262Z'
+datePublished: '2015-10-01T18:24:07.143Z'
 sourcePath: _posts/2015-10-01-update-from-estonia.md
 published: true
 url: update-from-estonia/index.html
