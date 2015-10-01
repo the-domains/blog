@@ -1,22 +1,21 @@
 ---
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'By Dan Tocchini IV, Founder & CEO'
 title: Update from Estonia
-dateModified: '2015-10-01T18:21:22.262Z'
+dateModified: '2015-10-01T18:29:54.149Z'
 tags:
   - ''
+datePublished: '2015-10-01T18:30:51.846Z'
+sourcePath: _posts/2015-10-01-update-from-estonia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-10-01T18:24:07.143Z'
-sourcePath: _posts/2015-10-01-update-from-estonia.md
-published: true
 url: update-from-estonia/index.html
 _type: Article
 
@@ -29,8 +28,9 @@ Our launch has been almost too successful. The initial goal was but a few thousa
 
 What may not be obvious reading a few of the vocal users on social media is how over overwhelmingly positive the support we've received has been, and of course, everyone is anxious to get their hands on the Grid! With several millions of visitors hitting our site, we've reached a scale of audience that is both exciting & nerve-racking. If just 1.5% of our founding members are dissatisfied, that's 1,000 people I personally feel indebted too. The negative feedback has been less than that & we take each one to heart. After inviting the first couple hundred founding members into the beta at the end of spring this year, it was clear we needed more time, it has been frustrating for everyone, but the right decision. 
 
-Happy birthday to our creative genius, Leigh Taylor And, happy belated birthday to Carl Chouinard the man who "plays with colors". 
+Happy birthday to our creative genius, Leigh Taylor And, happy belated birthday to Carl Chouinard the man who "plays with colors."
 
 We are eternally grateful to all the founding members that are paving the way for the members to come. 
 
 - Dan Tocchini IV, Founding Member \#1
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97df092c-b27d-44ae-9c8a-24aa50c8e334.jpg)
