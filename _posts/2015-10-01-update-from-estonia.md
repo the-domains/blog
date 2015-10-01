@@ -1,13 +1,14 @@
 ---
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'By Dan Tocchini IV, Founder & CEO'
 title: Update from Estonia
-dateModified: '2015-10-01T18:29:54.149Z'
+dateModified: '2015-10-01T19:07:30.199Z'
 tags:
   - ''
-datePublished: '2015-10-01T18:30:51.846Z'
+datePublished: '2015-10-01T19:09:44.488Z'
 sourcePath: _posts/2015-10-01-update-from-estonia.md
 published: true
 authors: []
@@ -34,3 +35,4 @@ We are eternally grateful to all the founding members that are paving the way fo
 
 - Dan Tocchini IV, Founding Member \#1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97df092c-b27d-44ae-9c8a-24aa50c8e334.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9baccf7f-a982-4a0d-814d-be48f0d92153.jpg)
