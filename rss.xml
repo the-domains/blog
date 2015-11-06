@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[The Grid Blog]]></title>
         <description><![CDATA[The Grid Blog]]></description>
         <link>https://thegrid.ai/blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Oct 2015 21:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 17:12:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid - October Update]]></title>
+            <description><![CDATA[<article><h1>The Grid - October Update</h1><p>On October 8th - the one year anniversary of our Founding Member Campaign launch - we flipped the switch and began Grid Beta auto-activations. Every day since, we've activated 100 new Founding Members who've begun building the first sites on The Grid. And we know: it's about time.</p><img src="https://gallery.mailchimp.com/e3e55c4321c915d4d6fb9f8f0/images/9f1bb870-4e88-4e74-adc7-d0c6c35b5c7f.png"></article>]]></description>
+            <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=6cc69ad4eb</link>
+            <guid isPermaLink="false">40fc5065-b2bd-428b-b3ef-cdba898966b9</guid>
+            <pubDate>Fri, 06 Nov 2015 17:10:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Update from Estonia Hack-a-Thon]]></title>
             <description><![CDATA[<article><h1>Update from Estonia Hack-a-Thon</h1><p>By Dan Tocchini IV</p></article>]]></description>
@@ -69,13 +75,6 @@
             <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=3646ab8b6c</link>
             <guid isPermaLink="false">4ee31b19-6332-42bc-95d9-e38410cef757</guid>
             <pubDate>Mon, 28 Sep 2015 18:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - Founding Member Update]]></title>
-            <description><![CDATA[<article><h1>The Grid - Founding Member Update</h1><p>Share The Grid with your friends and get money back, just in time for the holidays. We'll send you $32 for for each Founding Member that signs up using your referral link, until your pre-order has been paid for. If you refer more than 3, new referrals will move you up the list for early beta access.</p><img src="https://gallery.mailchimp.com/e3e55c4321c915d4d6fb9f8f0/images/9e9a86f7-cad6-4baa-8ee8-5b3debf5fbb3.jpg"></article>]]></description>
-            <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=e67b2adcda</link>
-            <guid isPermaLink="false">1a0eb29e-6128-4f8b-8842-fddfa1b4e8d2</guid>
-            <pubDate>Mon, 28 Sep 2015 18:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
