@@ -1,6 +1,7 @@
 name: The Grid Blog
 favicon: null
 layout_spectrum: 0.51074
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -15,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0
+  brandStrength: 0.3125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
