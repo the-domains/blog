@@ -1,7 +1,12 @@
 name: The Grid Blog
 favicon: null
-layout_spectrum: 0.51074
+layout_spectrum: 0.22913
 typography_spectrum: 0.5
+navigation:
+  - url: 'https://thegrid.io/'
+    name: Homepage
+  - url: 'https://thegrid.ai/thegridsupport/'
+    name: Support
 cta:
   domain: null
   bucket: null
@@ -16,18 +21,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3a3934'
-    - '#ffffff'
-    - '#db7c52'
-    - '#bba590'
-    - '#e4ceb6'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-navigation:
-- url: 'https://thegrid.io/'
-  name: Homepage
-- url: 'https://thegrid.ai/thegridsupport/'
-  name: Support
+    - '#f75490'
+    - '#203354'
+    - '#263455'
+    - '#a64879'
+    - '#f7548f'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
