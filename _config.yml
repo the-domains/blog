@@ -25,4 +25,9 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+navigation:
+- url: 'https://thegrid.io/'
+  name: Homepage
+- url: 'https://thegrid.ai/thegridsupport/'
+  name: Support
 purpose: []
