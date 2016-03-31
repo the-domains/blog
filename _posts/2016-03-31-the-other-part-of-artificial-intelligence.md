@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T20:29:08.729Z'
-dateModified: '2016-03-31T20:28:35.052Z'
+datePublished: '2016-03-31T20:36:22.843Z'
+dateModified: '2016-03-31T20:36:18.239Z'
 title: The other part of Artificial Intelligence.
 author: []
+sourcePath: _posts/2016-03-31-the-other-part-of-artificial-intelligence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-the-other-part-of-artificial-intelligence.md
-published: true
 url: the-other-part-of-artificial-intelligence/index.html
 _type: Article
 
 ---
 # The other part of Artificial Intelligence.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12cb2f5b-f378-4cb1-b97a-734df4e750bc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4fd4f4-d629-4249-a014-db6b4e0e99cc.jpg)
 
 > Google is to Machine Learning, as the Grid is to Constraint Programming.
 
@@ -35,6 +35,6 @@ _type: Article
 
 The chasm between the AI I learned at University & Hollywood's AI is like that between technology & magic. To the initiate, desensitized by years of servitude to the master behind the curtain, the "magic" is just maniacal perfection of the trade. AI to me was what textbooks like this so effectively described; a field in Computer Science that applies constraint satisfaction & machine learning to solve problems that previously required humans to solve. A traditional AI course begins with it's history, explains how constraint solvers can be used to solve seemingly impossible logic problems & proceeds to show how various machine learning algos are effective at solving technical problems rife with ambiguity, like if their's a face in a picture, or if something is attractive or not.
 
-[Dan Tocchini IV][0]_Founding Member \#1_
+[Dan Tocchini IV][0]_Founding Member \#1 and Founder of The Grid_
 
 [0]: https://twitter.com/d4tocchini
