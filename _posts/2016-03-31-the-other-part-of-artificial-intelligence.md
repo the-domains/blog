@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"Machine" + "Learning" ... Oh, the beauty, the contrast, the tension of mechanical hardness possessed with the infinite fluidness of mind. ("Constraint" || "Logic") + ("Programming" || "Satisfaction" || "Solvers") ... No contrast, no inspiration inducing tension.'
-datePublished: '2016-03-31T20:39:42.798Z'
-dateModified: '2016-03-31T20:39:37.694Z'
+datePublished: '2016-03-31T20:40:28.484Z'
+dateModified: '2016-03-31T20:40:23.468Z'
 title: The other part of Artificial Intelligence.
 author: []
 sourcePath: _posts/2016-03-31-the-other-part-of-artificial-intelligence.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # The other part of Artificial Intelligence.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4fd4f4-d629-4249-a014-db6b4e0e99cc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b01fb5e5f3e0ec923bca75edd7c53633e3f1c1f.jpg)
 
 > Google is to Machine Learning, as the Grid is to Constraint Programming.
 
