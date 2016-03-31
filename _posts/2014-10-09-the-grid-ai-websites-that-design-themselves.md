@@ -1,4 +1,7 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://blog.iwantmyname.com/2014/10/the-grid.html'
 inLanguage: English
 starred: false
@@ -14,6 +17,8 @@ keywords:
   - slack-jawed
   - wide-eyed
 description: "I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers."
+datePublished: '2016-03-31T16:33:27.262Z'
+dateModified: '2016-03-31T16:33:21.751Z'
 author: []
 related:
   - score: 0.8359887003898621
@@ -44,10 +49,8 @@ related:
     thumbnail_height: 330
     thumbnail_url: 'https://i1.wp.com/tctechcrunch2011.files.wordpress.com/2014/10/tiled.jpg?fit=440%2C330'
     thumbnail_width: 427
-datePublished: '2016-03-31T15:05:19.319Z'
 app_links: []
 title: The Grid - AI websites that design themselves
-dateModified: '2016-03-25T19:20:44.817Z'
 published: true
 sourcePath: _posts/2014-10-09-the-grid-ai-websites-that-design-themselves.md
 tags:
@@ -58,11 +61,10 @@ publisher:
   domain: blog.iwantmyname.com
   url: 'http://blog.iwantmyname.com'
   favicon: 'http://blog.iwantmyname.com/assets/images/favicon-64x64.png'
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cf1aca-cddb-4856-bb2d-62a68289f3fa.png)
+
 <article style=""><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p></article>
