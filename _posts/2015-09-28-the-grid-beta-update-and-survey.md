@@ -17,8 +17,8 @@ keywords:
   - team
   - community
 description: "That's just it though: trying to teach a newborn system how to think about color is... well, also crazy. Because color theory is hard. It's not just scientific; it's psychological. But see, we're crazy enough to try it. And you know what? It's starting to work. That's why we're excited, not scared."
-datePublished: '2016-03-31T14:58:25.342Z'
-dateModified: '2016-03-31T14:58:20.048Z'
+datePublished: '2016-03-31T15:19:32.229Z'
+dateModified: '2016-03-31T15:19:23.635Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Grid - Beta Update &amp; Survey</h1><p>That's just it though: trying to teach a newborn system how to think about color is... well, also crazy. Because color theory is hard. It's not just scientific; it's psychological. But see, we're crazy enough to try it. And you know what? It's starting to work. That's why we're excited, not scared.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f805dbb65a30e4fc443fa2249128ed210b894eb6.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cad7ce5c-887c-4811-b297-865d26c44ea0.png)
