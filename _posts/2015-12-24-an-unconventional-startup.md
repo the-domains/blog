@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Brian Axe - Co-Founder / Chairman \_"
-datePublished: '2016-03-31T20:31:10.390Z'
-dateModified: '2016-03-31T20:31:09.978Z'
+datePublished: '2016-03-31T20:39:15.898Z'
+dateModified: '2016-03-31T20:36:51.060Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
