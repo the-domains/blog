@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"Machine" + "Learning" ... Oh, the beauty, the contrast, the tension of mechanical hardness possessed with the infinite fluidness of mind. ("Constraint" || "Logic") + ("Programming" || "Satisfaction" || "Solvers") ... No contrast, no inspiration inducing tension.'
-datePublished: '2016-03-31T20:40:28.484Z'
-dateModified: '2016-03-31T20:40:23.468Z'
+datePublished: '2016-03-31T20:48:19.571Z'
+dateModified: '2016-03-31T20:48:14.717Z'
 title: The other part of Artificial Intelligence.
 author: []
 sourcePath: _posts/2016-03-31-the-other-part-of-artificial-intelligence.md
