@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Here's an update from Jon Gold who is working on The Grid's typography system:\_"
-datePublished: '2016-03-31T17:48:08.071Z'
-dateModified: '2016-03-31T17:48:02.333Z'
+description: "\_Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so).\_"
+datePublished: '2016-03-31T18:32:10.714Z'
+dateModified: '2016-03-31T18:32:04.156Z'
 title: 'Behind-The-Scenes: Typography'
 sourcePath: _posts/2015-11-06-behind-the-scenes-typography.md
 published: true
@@ -22,9 +22,7 @@ url: behind-the-scenes-typography/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1adb77063fb6946c5a4664078ebe4841154c910a.jpg)
-
-_Here's an update from Jon Gold who is working on The Grid's typography system: _
+# An update from Jon Gold who is working on The Grid's typography system: ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png)
 
 Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). 
 
