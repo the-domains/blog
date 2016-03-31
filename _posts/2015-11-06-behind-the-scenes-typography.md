@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: "Here's an update from Jon Gold who is working on The Grid's typography system:\_"
-datePublished: '2016-03-31T14:48:20.037Z'
-dateModified: '2016-03-31T14:48:12.922Z'
+datePublished: '2016-03-31T17:48:08.071Z'
+dateModified: '2016-03-31T17:48:02.333Z'
 title: 'Behind-The-Scenes: Typography'
 sourcePath: _posts/2015-11-06-behind-the-scenes-typography.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: behind-the-scenes-typography/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1adb77063fb6946c5a4664078ebe4841154c910a.jpg)
