@@ -1,27 +1,34 @@
 ---
-isBasedOnUrl: null
+inFeed: true
+hasPage: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: By Dan Tocchini IV
+description: "Right now we have to personally on-board every beta user one-at-a-time. \n\nOur iOS app is going through review in the App store right now & we expect to start auto-rollout to our founding members this month.\_"
+datePublished: '2016-03-31T14:51:32.940Z'
+dateModified: '2016-03-31T14:51:25.754Z'
 title: Update from Estonia Hack-a-Thon
-dateModified: '2015-10-01T21:02:51.215Z'
 tags:
   - ''
+sourcePath: _posts/2015-10-01-update-from-estonia-hack-a-thon.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-10-01T21:03:27.546Z'
-sourcePath: _posts/2015-10-01-update-from-estonia-hack-a-thon.md
-published: true
 url: update-from-estonia-hack-a-thon/index.html
 _type: Article
 
 ---
-Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c26c78c-3b94-4bff-ab6b-805211106be3.jpg)
+
+# Update from Estonia Hack-a-Thon
+
+## Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. 
 
 Right now we have to personally on-board every beta user one-at-a-time. 
 Our iOS app is going through review in the App store right now & we expect to start auto-rollout to our founding members this month. 
