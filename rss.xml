@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>https://thegrid.ai/blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 15:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 15:05:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
+            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1cfa52c2dc929c4450ce9f35bbaf3ceab8aab3e.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
+            <guid isPermaLink="false">25d217cf-003b-405e-93a5-3c9b87d156e9</guid>
+            <pubDate>Thu, 31 Mar 2016 15:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid - Founding Member Update]]></title>
             <description><![CDATA[<article><h1>The Grid - Founding Member Update</h1><p>Share The Grid with your friends and get money back, just in time for the holidays. We'll send you $32 for for each Founding Member that signs up using your referral link, until your pre-order has been paid for. If you refer more than 3, new referrals will move you up the list for early beta access.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9cf443c5bd9f9e4ec05679566b8295d59db61d8.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=c9db8fd66d</link>
             <guid isPermaLink="false">54b3dd51-4cb0-4235-bbdc-b8086ddb122e</guid>
             <pubDate>Thu, 31 Mar 2016 14:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - Design Systems & API Demo]]></title>
-            <description><![CDATA[<article><h1>The Grid - Design Systems & API Demo</h1><p>Since our last update, we've made quite a bit of progress and wanted to give you a snapshot of some of the most exciting developments on The Grid. This is a long one, so get comfortable, settle in with a cup of coffee (or tea), and read on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22576ac588c404f53498334a780d39fcdaad8ccd.png"></article>]]></description>
-            <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=858e35e2c2</link>
-            <guid isPermaLink="false">a058a130-a7ad-4d6f-a7c2-98752da3dd32</guid>
-            <pubDate>Thu, 31 Mar 2016 14:53:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
