@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brian Axe - Co-Founder / Chairman \_"
-datePublished: '2016-03-31T19:55:17.005Z'
-dateModified: '2016-03-31T19:55:09.287Z'
+datePublished: '2016-03-31T19:56:32.226Z'
+dateModified: '2016-03-31T19:56:27.391Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -22,12 +22,13 @@ url: an-unconventional-startup/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f06ce69acd54bfd9652bd01bbfe00dd44f16a6.jpg)
+
 ### I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
 
 When I joined Google in 2002 (500 employees), I thought Google was unconventional. We had a company chef, went on 3 day ski trips and most importantly, had extremely talented engineers who helped change the internet as we know it today.
 
 Since leaving Google in 2010 (25,000 employees), I helped start a company called The Grid. You may have heard of [The Grid][0], AI designed websites, apparently many of the Geniuses at the local Apple store here in Honolulu have, as we were delighted to learn when visiting the store.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f221991-efa8-488b-b5f3-c6bd2a155eb3.jpg)
 
 I knew I was going into unchartered territory when I partnered up with Dan and discovered he used to sell diamonds and was "fronted $1M of goods" to move in jewelry stores around the Bay Area. The diamond business led to the need for a website and the resulting quixotic search for a solution to the website problem.
 
