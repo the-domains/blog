@@ -17,8 +17,8 @@ keywords:
   - team
   - community
 description: "That's just it though: trying to teach a newborn system how to think about color is... well, also crazy. Because color theory is hard. It's not just scientific; it's psychological. But see, we're crazy enough to try it. And you know what? It's starting to work. That's why we're excited, not scared."
-datePublished: '2016-03-31T14:52:23.761Z'
-dateModified: '2016-03-31T14:52:18.642Z'
+datePublished: '2016-03-31T14:58:25.342Z'
+dateModified: '2016-03-31T14:58:20.048Z'
 author: []
 related: []
 app_links: []
