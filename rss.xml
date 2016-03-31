@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 15:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 15:57:26 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Uses Artificial Intelligence To Design Your Websites For You]]></title>
+            <description><![CDATA[<article><h1>The Grid Uses Artificial Intelligence To Design Your Websites For You</h1><p>Designing a good-looking website has never been easy, and while many services promise to let you build a site without ever having to touch any code, you quickly reach their limits if you want to have a more advanced site. The Grid, which is launching its crowdfunding campaign today, promises to do away with all of this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bb7833526a39147f41634429eb832f3d3799d1.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2014/10/08/the-grid-uses-artificial-intelligence-to-design-your-websites-for-you/</link>
+            <guid isPermaLink="false">206a0182-cf31-43ad-a7d9-1dbb82d2ec49</guid>
+            <pubDate>Thu, 31 Mar 2016 15:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid - Beta Update & Survey]]></title>
             <description><![CDATA[<article><h1>The Grid - Beta Update & Survey</h1><p>That's just it though: trying to teach a newborn system how to think about color is... well, also crazy. Because color theory is hard. It's not just scientific; it's psychological. But see, we're crazy enough to try it. And you know what? It's starting to work. That's why we're excited, not scared.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cad7ce5c-887c-4811-b297-865d26c44ea0.png"></article>]]></description>
@@ -18,7 +25,7 @@
             <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a693d24f2168df41e7addef2b5b9c01faa9aa94.png"></article>]]></description>
             <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
             <guid isPermaLink="false">cf493f5c-590b-4509-acf7-2f349528af8a</guid>
-            <pubDate>Thu, 31 Mar 2016 15:12:31 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 15:56:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid - AI websites that design themselves]]></title>
