@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 20:51:46 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Thu, 31 Mar 2016 20:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>Henri Bergius - Websites Designed by Artificial Intelligence</h1><p>Henri Bergius, VP engineering at The Grid, an AI that builds your website based on its content, hacker and occasional adventurer, is the creator of Create.js and NoFlo. In this second talk of the session Artificial Intelligence, Technology without Alternative?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5671f606c22b547bbb9d574bc8536458e38b71ef.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=v65HLBGLG_g&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d41db27b-da3c-41e1-8b2d-1f0364129715</guid>
+            <pubDate>Thu, 31 Mar 2016 20:51:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The other part of Artificial Intelligence.]]></title>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://www.entrepreneur.com/article/238255</link>
             <guid isPermaLink="false">2f246a25-b71a-4b98-82e7-03ff25079460</guid>
             <pubDate>Thu, 31 Mar 2016 16:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - Founding Member Update]]></title>
-            <description><![CDATA[<article><h1>The Grid - Founding Member Update</h1><p>Share The Grid with your friends and get money back, just in time for the holidays. We'll send you $32 for for each Founding Member that signs up using your referral link, until your pre-order has been paid for. If you refer more than 3, new referrals will move you up the list for early beta access.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9cf443c5bd9f9e4ec05679566b8295d59db61d8.jpg"></article>]]></description>
-            <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=e67b2adcda</link>
-            <guid isPermaLink="false">1a0eb29e-6128-4f8b-8842-fddfa1b4e8d2</guid>
-            <pubDate>Thu, 31 Mar 2016 14:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
