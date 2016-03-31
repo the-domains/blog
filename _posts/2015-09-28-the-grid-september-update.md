@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://us6.campaign-archive1.com'
-  name: Campaign-archive1
-  favicon: null
-  domain: us6.campaign-archive1.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&id=bb0c0ce9cb'
+inLanguage: en
+starred: false
 keywords:
   - site
   - built
@@ -18,16 +17,22 @@ keywords:
   - founding
   - cool
 description: "First off, a big thanks to everyone who took the survey last week. You sent us thousands of responses and we read every single one. One thing we learned - you'd like to hear more about what we're doing, more often. Point taken."
-inLanguage: en
+datePublished: '2016-03-31T14:51:50.066Z'
+dateModified: '2016-03-31T14:51:45.201Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&id=bb0c0ce9cb'
 title: The Grid - September Update
-datePublished: '2015-09-28T19:04:47.633Z'
-dateModified: '2015-09-28T19:03:33.016Z'
 sourcePath: _posts/2015-09-28-the-grid-september-update.md
 published: true
+authors: []
+publisher:
+  name: Campaign-archive1
+  domain: us6.campaign-archive1.com
+  url: 'http://us6.campaign-archive1.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Grid - September Update</h1><p>First off&amp;comma; a big thanks to everyone who took the survey last week&amp;period; You sent us thousands of responses and we read every single one&amp;period; One thing we learned - you'd like to hear more about what we're doing&amp;comma; more often&amp;period; Point taken&amp;period;</p><img src="https://gallery.mailchimp.com/e3e55c4321c915d4d6fb9f8f0/images/8a621ff5-4f5d-4fe0-aecf-38ff5511030a.jpg" /></article>
+<article style=""><h1>The Grid - September Update</h1><p>First off, a big thanks to everyone who took the survey last week. You sent us thousands of responses and we read every single one. One thing we learned - you'd like to hear more about what we're doing, more often. Point taken.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9a7422a4529bad3dd4d9469b56d869c602ad6af.jpg" /></article>
