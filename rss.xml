@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>https://thegrid.ai/blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 15:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 15:09:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
+            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a693d24f2168df41e7addef2b5b9c01faa9aa94.png"></article>]]></description>
+            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
+            <guid isPermaLink="false">cf493f5c-590b-4509-acf7-2f349528af8a</guid>
+            <pubDate>Thu, 31 Mar 2016 15:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid - AI websites that design themselves]]></title>
             <description><![CDATA[<article><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p></article>]]></description>
@@ -68,15 +75,6 @@
             <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=6cc69ad4eb</link>
             <guid isPermaLink="false">40fc5065-b2bd-428b-b3ef-cdba898966b9</guid>
             <pubDate>Thu, 31 Mar 2016 14:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update from Estonia Hack-a-Thon]]></title>
-            <description><![CDATA[<article><h1>Update from Estonia Hack-a-Thon</h1><h2>Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. </h2><p>Right now we have to personally on-board every beta user one-at-a-time. 
-
-Our iOS app is going through review in the App store right now & we expect to start auto-rollout to our founding members this month. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27093d159aa1bf2f528cb663764dc70e93d4f3fd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blog/update-from-estonia-hack-a-thon/index.html</link>
-            <guid isPermaLink="false">159dc9af-b268-4a44-889e-c8f2eda15fed</guid>
-            <pubDate>Thu, 31 Mar 2016 14:51:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
