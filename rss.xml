@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Grid Blog]]></title>
         <description><![CDATA[The Grid Blog]]></description>
-        <link>https://thegrid.ai/blog/</link>
+        <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 15:19:34 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 15:38:59 GMT</lastBuildDate>
+        <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/Bzhb2BWIcAIFW6v.jpg:large" alt="This new publishing tool builds websites powered by AI http://wrd.cm/1sgwEwf">]]></description>
+            <link>https://twitter.com/WIRED/status/520266740887203841</link>
+            <guid isPermaLink="false">666831b8-abdb-4dee-ba0d-0c855c0bbc22</guid>
+            <pubDate>Thu, 31 Mar 2016 15:38:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid - Beta Update & Survey]]></title>
             <description><![CDATA[<article><h1>The Grid - Beta Update & Survey</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cad7ce5c-887c-4811-b297-865d26c44ea0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thewoods.today/you-suck-means-you-have-plenty-of-opportunities/</link>
             <guid isPermaLink="false">f6ce784b-546d-4ed8-9030-049341be9032</guid>
             <pubDate>Thu, 31 Mar 2016 14:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - October Update]]></title>
-            <description><![CDATA[<article><h1>The Grid - October Update</h1><p>On October 8th - the one year anniversary of our Founding Member Campaign launch - we flipped the switch and began Grid Beta auto-activations. Every day since, we've activated 100 new Founding Members who've begun building the first sites on The Grid. And we know: it's about time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2402043aeb7c26d589bd870d4977408e6e0b568.png"></article>]]></description>
-            <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=6cc69ad4eb</link>
-            <guid isPermaLink="false">40fc5065-b2bd-428b-b3ef-cdba898966b9</guid>
-            <pubDate>Thu, 31 Mar 2016 14:47:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
