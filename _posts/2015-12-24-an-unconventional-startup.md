@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Brian Axe - Co-Founder / Chairman \_"
-datePublished: '2016-03-31T19:56:32.226Z'
-dateModified: '2016-03-31T19:56:27.391Z'
+datePublished: '2016-03-31T20:05:53.587Z'
+dateModified: '2016-03-31T20:05:47.925Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -52,7 +52,7 @@ I'll tell more of The Grid story in future posts, but want to tell the story of 
 **Work-Life Balance:**Like early Google, The Grid respects a work-life balance. Unlike early Google, The Grid creates getaway "team-cations" (an inverted variant of the "[work-cation][2]") for employees to completely immerse in work 24 x 7\. Although many of us are away from our families (half the employees or more have kids), the concentrated "team-cations" and resulting progress allow one to really unplug and be present with family upon return. An in some cases in exotic locations as family can join in on the tail-end of these trips.
 
 #### Distributed Team Culture of The Future?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5512e914-0110-4d2b-a086-a4462f8575ad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7af94b8be1e087502c3ec822b93c278680d1e3e.jpg)
 
 I've heard of other startups moving their entire company to an exotic location. Anyone with school-aged children knows the non-starter issues with this strategy. However, the periodic "team-cations" in exotic locations works great for those with children of any age, and for that matter anyone who is married, or single. Anyone who works with a distributed team should take note.
 
