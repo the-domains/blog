@@ -1,4 +1,7 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://www.entrepreneur.com/article/238255'
 inLanguage: English
 starred: false
@@ -14,6 +17,8 @@ keywords:
   - products
   - easy
 description: "Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates."
+datePublished: '2016-03-31T16:26:18.410Z'
+dateModified: '2016-03-31T16:26:12.661Z'
 author:
   - name: Emily Price
     url: 'http://www.entrepreneur.com/author/emily-price'
@@ -33,10 +38,8 @@ related:
     thumbnail_height: 1038
     thumbnail_url: 'http://blog.invisionapp.com/wp-content/uploads/2015/01/trendy.png'
     thumbnail_width: 1598
-datePublished: '2016-03-31T15:05:19.008Z'
 app_links: []
 title: This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website
-dateModified: '2016-03-25T19:20:43.417Z'
 sourcePath: _posts/2014-10-08-this-nifty-tool-uses-artificial-intelligence-to-build-your-u.md
 published: true
 tags:
@@ -47,11 +50,8 @@ publisher:
   domain: www.entrepreneur.com
   url: 'http://www.entrepreneur.com'
   favicon: 'http://www.entrepreneur.com/favicon.ico'
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website</h1><p>Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates.</p><img src="https://assets.entrepreneur.com/content/16x9/822/1412782883-nifty-tool-uses-artificial-intelligence-build-your-ultimate-website-the-grid.jpg" /></article>
+<article style=""><h1>This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website</h1><p>Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b92dc3cd15fa0b11f498b5ac016edadf21d1c336.jpg" /></article>
