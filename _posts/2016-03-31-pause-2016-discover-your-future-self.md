@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Pause Fest
-    url: 'https://www.youtube.com/channel/UCGlT3xYS6aH1-q_uGId3tFg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=MFz6D1PiCS8'
+inLanguage: en
+starred: false
 keywords:
   - fest
   - pause
@@ -21,7 +17,13 @@ keywords:
   - pok
   - future
 description: "Pause Fest is premier creative, tech and business festival for Asia Pacific, a catalyst for innovation, a uniter of industries, a platform for the future. Pause stands for the content you can't Google. www.pause.melbourne"
-inLanguage: en
+datePublished: '2016-03-31T21:11:07.207Z'
+dateModified: '2016-03-31T21:11:02.671Z'
+author:
+  - name: Pause Fest
+    url: 'https://www.youtube.com/channel/UCGlT3xYS6aH1-q_uGId3tFg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=MFz6D1PiCS8&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=MFz6D1PiCS8'
-title: Pause 2016 - Discover Your Future Self
-datePublished: '2016-03-31T21:03:45.841Z'
-dateModified: '2016-03-31T20:59:33.182Z'
+title: 'Jon Gold and Jeff Woods of The Grid at Pause 2016 - Discover Your Future Self. '
 sourcePath: _posts/2016-03-31-pause-2016-discover-your-future-self.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
