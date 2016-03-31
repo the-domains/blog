@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>https://thegrid.ai/blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 15:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 15:05:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website]]></title>
+            <description><![CDATA[<article><h1>This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website</h1><p>Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b92dc3cd15fa0b11f498b5ac016edadf21d1c336.jpg"></article>]]></description>
+            <link>http://www.entrepreneur.com/article/238255</link>
+            <guid isPermaLink="false">2f246a25-b71a-4b98-82e7-03ff25079460</guid>
+            <pubDate>Thu, 31 Mar 2016 15:05:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
             <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1cfa52c2dc929c4450ce9f35bbaf3ceab8aab3e.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=bb0c0ce9cb</link>
             <guid isPermaLink="false">4e786add-40db-482f-b292-c5175fd61d28</guid>
             <pubDate>Thu, 31 Mar 2016 14:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - Beta Update & Survey]]></title>
-            <description><![CDATA[<article><h1>The Grid - Beta Update & Survey</h1><p>That's just it though: trying to teach a newborn system how to think about color is... well, also crazy. Because color theory is hard. It's not just scientific; it's psychological. But see, we're crazy enough to try it. And you know what? It's starting to work. That's why we're excited, not scared.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca20d6fa01136c38b8a0fb7ec940e63bcfdb2578.jpg"></article>]]></description>
-            <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=c9db8fd66d</link>
-            <guid isPermaLink="false">54b3dd51-4cb0-4235-bbdc-b8086ddb122e</guid>
-            <pubDate>Thu, 31 Mar 2016 14:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
