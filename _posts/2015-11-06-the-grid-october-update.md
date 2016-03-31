@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://us6.campaign-archive1.com'
-  name: Campaign-archive1
-  favicon: null
-  domain: us6.campaign-archive1.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&id=6cc69ad4eb'
+inLanguage: en
+starred: false
 keywords:
   - grid
   - site
@@ -18,19 +17,22 @@ keywords:
   - pane
   - building
 description: "On October 8th - the one year anniversary of our Founding Member Campaign launch - we flipped the switch and began Grid Beta auto-activations. Every day since, we've activated 100 new Founding Members who've begun building the first sites on The Grid. And we know: it's about time."
-inLanguage: en
+datePublished: '2016-03-31T14:47:57.149Z'
+dateModified: '2016-03-31T14:47:50.940Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&id=6cc69ad4eb'
 title: The Grid - October Update
-datePublished: '2015-11-06T17:10:26.189Z'
-dateModified: '2015-11-06T17:09:57.772Z'
 sourcePath: _posts/2015-11-06-the-grid-october-update.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Campaign-archive1
+  domain: us6.campaign-archive1.com
+  url: 'http://us6.campaign-archive1.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Grid - October Update</h1><p>On October 8th - the one year anniversary of our Founding Member Campaign launch - we flipped the switch and began Grid Beta auto-activations&amp;period; Every day since&amp;comma; we've activated 100 new Founding Members who've begun building the first sites on The Grid&amp;period; And we know&amp;colon; it's about time&amp;period;</p><img src="https://gallery.mailchimp.com/e3e55c4321c915d4d6fb9f8f0/images/9f1bb870-4e88-4e74-adc7-d0c6c35b5c7f.png" /></article>
+<article style=""><h1>The Grid - October Update</h1><p>On October 8th - the one year anniversary of our Founding Member Campaign launch - we flipped the switch and began Grid Beta auto-activations. Every day since, we've activated 100 new Founding Members who've begun building the first sites on The Grid. And we know: it's about time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e7f7890cb465baddf3481467d6f526458cc2883.png" /></article>
