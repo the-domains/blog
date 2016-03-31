@@ -17,8 +17,8 @@ keywords:
   - machine
   - lot
 description: "Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text."
-datePublished: '2016-03-31T15:12:31.569Z'
-dateModified: '2016-03-31T15:12:24.776Z'
+datePublished: '2016-03-31T15:56:14.942Z'
+dateModified: '2016-03-31T15:56:07.928Z'
 author: []
 related: []
 app_links: []
