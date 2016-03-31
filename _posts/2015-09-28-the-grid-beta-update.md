@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://us6.campaign-archive2.com'
-  name: Campaign-archive2
-  favicon: null
-  domain: us6.campaign-archive2.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&id=8cd6538521'
+inLanguage: en
+starred: false
 keywords:
   - subscription
   - grid
@@ -18,16 +17,22 @@ keywords:
   - clay
   - marshall
 description: "To be clear, we will not start the clock on your subscriptions until beta testing is complete. And as a thank you for your early support, we're going to credit you with an additional six months free on your subscription to The Grid."
-inLanguage: en
+datePublished: '2016-03-31T14:54:06.028Z'
+dateModified: '2016-03-31T14:53:59.843Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&id=8cd6538521'
 title: The Grid - Beta Update
-datePublished: '2015-09-28T18:59:55.184Z'
-dateModified: '2015-09-28T18:59:09.896Z'
 sourcePath: _posts/2015-09-28-the-grid-beta-update.md
 published: true
+authors: []
+publisher:
+  name: Campaign-archive2
+  domain: us6.campaign-archive2.com
+  url: 'http://us6.campaign-archive2.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Grid - Beta Update</h1><p>To be clear&amp;comma; we will not start the clock on your subscriptions until beta testing is complete&amp;period; And as a thank you for your early support&amp;comma; we're going to credit you with an additional six months free on your subscription to The Grid&amp;period;</p><img src="https://gallery.mailchimp.com/e3e55c4321c915d4d6fb9f8f0/images/b433269e-c708-4580-89d5-68f3623be68f.jpg" /></article>
+<article style=""><h1>The Grid - Beta Update</h1><p>To be clear, we will not start the clock on your subscriptions until beta testing is complete. And as a thank you for your early support, we're going to credit you with an additional six months free on your subscription to The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efd1d6606b03edb8393f81232bb4e97e31adc49d.jpg" /></article>
