@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Right now we have to personally on-board every beta user one-at-a-time. \n\nOur iOS app is going through review in the App store right now & we expect to start auto-rollout to our founding members this month.\_"
-datePublished: '2016-03-31T14:51:32.940Z'
-dateModified: '2016-03-31T14:51:25.754Z'
+datePublished: '2016-03-31T17:57:33.373Z'
+dateModified: '2016-03-31T17:57:18.879Z'
 title: Update from Estonia Hack-a-Thon
 tags:
   - ''
@@ -24,7 +24,7 @@ url: update-from-estonia-hack-a-thon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c26c78c-3b94-4bff-ab6b-805211106be3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d71b151-6a82-445b-96ea-cff5f1d4de1d.jpg)
 
 # Update from Estonia Hack-a-Thon
 
