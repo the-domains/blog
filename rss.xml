@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 21:03:54 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Thu, 31 Mar 2016 20:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pause 2016 - Discover Your Future Self]]></title>
+            <description><![CDATA[<article><h1>Pause 2016 - Discover Your Future Self</h1><p>Pause Fest is premier creative, tech and business festival for Asia Pacific, a catalyst for innovation, a uniter of industries, a platform for the future. Pause stands for the content you can't Google. www.pause.melbourne</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ebdd6ebba8d4e2b86e675efbc629c33531b5c2f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MFz6D1PiCS8</link>
+            <guid isPermaLink="false">b0bdce5d-52da-4e34-8df9-0854dee0c490</guid>
+            <pubDate>Thu, 31 Mar 2016 21:03:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://blog.iwantmyname.com/2014/10/the-grid.html</link>
             <guid isPermaLink="false">11692324-54ea-4073-8ff5-ef77bff1e0f1</guid>
             <pubDate>Thu, 31 Mar 2016 16:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website]]></title>
-            <description><![CDATA[<article><h1>This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website</h1><p>Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b92dc3cd15fa0b11f498b5ac016edadf21d1c336.jpg"></article>]]></description>
-            <link>http://www.entrepreneur.com/article/238255</link>
-            <guid isPermaLink="false">2f246a25-b71a-4b98-82e7-03ff25079460</guid>
-            <pubDate>Thu, 31 Mar 2016 16:26:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
