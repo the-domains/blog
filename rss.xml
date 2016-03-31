@@ -4,8 +4,17 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 17:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 17:57:37 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Update from Estonia Hack-a-Thon]]></title>
+            <description><![CDATA[<article><h1>Update from Estonia Hack-a-Thon</h1><h2>Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. </h2><p>Right now we have to personally on-board every beta user one-at-a-time. 
+
+Our iOS app is going through review in the App store right now & we expect to start auto-rollout to our founding members this month. </p></article>]]></description>
+            <link>http://blog.thegrid.io/update-from-estonia-hack-a-thon/index.html</link>
+            <guid isPermaLink="false">159dc9af-b268-4a44-889e-c8f2eda15fed</guid>
+            <pubDate>Thu, 31 Mar 2016 17:57:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Behind-The-Scenes: Typography]]></title>
             <description><![CDATA[<article><h1>Behind-The-Scenes: Typography</h1><p>Here's an update from Jon Gold who is working on The Grid's typography system: </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25a994690aeb24d4bb20a755950ce530f176be4b.jpg"></article>]]></description>
@@ -68,13 +77,6 @@
             <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=46410da0e6</link>
             <guid isPermaLink="false">25ace9d2-7ce3-4af8-b246-4d55ebf93a8f</guid>
             <pubDate>Thu, 31 Mar 2016 14:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Innovative Companies Using A.I. to Disrupt Their Industries]]></title>
-            <description><![CDATA[<article><h1>7 Innovative Companies Using A.I. to Disrupt Their Industries</h1><p>Despite predictions of a tech slowdown, big-name businesses like Facebook, Apple, and IBM are pouring resources into artificial intelligence (AI), changing the field and gaining the interest of venture capitalists everywhere. As investors actively seek innovative players in the AI space, more entrepreneurs are gravitating toward the technology as they build and grow their own companies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634b898dd415bbc333d5ac586f57c6806aaa7cf5.jpg"></article>]]></description>
-            <link>http://www.inc.com/john-boitnott/7-innovative-companies-using-ai-to-disrupt-their-industries.html</link>
-            <guid isPermaLink="false">076fb616-b5cf-48bf-b0ec-c2cef08be67d</guid>
-            <pubDate>Thu, 31 Mar 2016 15:01:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
