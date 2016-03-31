@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 18:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 19:55:19 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
+            <description><![CDATA[<article><h1>I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.</h1><p>Brian Axe - Co-Founder / Chairman  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f06ce69acd54bfd9652bd01bbfe00dd44f16a6.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
+            <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
+            <pubDate>Thu, 31 Mar 2016 19:55:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Update from Estonia Hack-a-Thon]]></title>
             <description><![CDATA[<article><h1>Update from Estonia Hack-a-Thon</h1><h2>Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. </h2><p>Right now we have to personally on-board every beta user one-at-a-time. 
@@ -16,8 +23,8 @@ Our iOS app is going through review in the App store right now & we expect to st
             <pubDate>Thu, 31 Mar 2016 17:57:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Behind-The-Scenes: Typography]]></title>
-            <description><![CDATA[<article><h1>Behind-The-Scenes: Typography</h1><p> Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png"></article>]]></description>
+            <title><![CDATA[An update from Jon Gold who is working on The Grid's typography system: ]]></title>
+            <description><![CDATA[<article><h1>An update from Jon Gold who is working on The Grid's typography system: </h1><p> Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png"></article>]]></description>
             <link>http://blog.thegrid.io/behind-the-scenes-typography/index.html</link>
             <guid isPermaLink="false">7bd4ed0f-ec26-4e70-a2f9-3a6f47a5390b</guid>
             <pubDate>Thu, 31 Mar 2016 18:32:10 GMT</pubDate>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=3646ab8b6c</link>
             <guid isPermaLink="false">4ee31b19-6332-42bc-95d9-e38410cef757</guid>
             <pubDate>Thu, 31 Mar 2016 14:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - Spring Is Here]]></title>
-            <description><![CDATA[<article><h1>The Grid - Spring Is Here</h1><p>Spring has arrived in the Northern Hemisphere, which we know begs the question, "When will The Grid launch?" We plan to invite Founding Members by waves into a rolling beta as spring comes to an end in June. Remember, the earlier you signed up and the more referrals you've earned, the sooner you'll be invited.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96b2f3162b0f191ced8acbe090a514e0f62f5e7c.png"></article>]]></description>
-            <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=46410da0e6</link>
-            <guid isPermaLink="false">25ace9d2-7ce3-4af8-b246-4d55ebf93a8f</guid>
-            <pubDate>Thu, 31 Mar 2016 14:54:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
