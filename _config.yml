@@ -7,6 +7,8 @@ navigation:
     name: Homepage
   - url: 'https://thegrid.ai/thegridsupport/'
     name: Support
+  - url: 'http://status.thegrid.io/'
+    name: Service Status
 cta:
   domain: null
   bucket: null
