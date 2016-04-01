@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 01:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 02:06:27 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Thu, 31 Mar 2016 20:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jon Nordby]]></title>
+            <description><![CDATA[<article><h1>Jon Nordby</h1><p>Now there are a couple limitations of this model. Primarily, it is completely reactive; we do not attempt to predict how traffic will develop in the future. Prediction is after all terribly tricky business - better not go there if it can be avoided.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec9ed02492551dd8f9e43f16383f71b20d1ecb06.png"></article>]]></description>
+            <link>http://www.jonnor.com/</link>
+            <guid isPermaLink="false">7f58ec46-65a8-4432-b2f6-e659f82396b0</guid>
+            <pubDate>Fri, 01 Apr 2016 02:06:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Status]]></title>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://us6.campaign-archive2.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=c9db8fd66d</link>
             <guid isPermaLink="false">54b3dd51-4cb0-4235-bbdc-b8086ddb122e</guid>
             <pubDate>Thu, 31 Mar 2016 15:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
-            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a693d24f2168df41e7addef2b5b9c01faa9aa94.png"></article>]]></description>
-            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
-            <guid isPermaLink="false">cf493f5c-590b-4509-acf7-2f349528af8a</guid>
-            <pubDate>Thu, 31 Mar 2016 15:56:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
