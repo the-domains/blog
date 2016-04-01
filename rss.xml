@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 21:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 01:34:59 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Thu, 31 Mar 2016 20:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid Status]]></title>
+            <description><![CDATA[<article><h1>The Grid Status</h1><p>Welcome to The Grid's home for real-time and historical data on system performance.</p></article>]]></description>
+            <link>http://status.thegrid.io/</link>
+            <guid isPermaLink="false">ad16ab2b-70a9-4c42-b04c-55341fd53fb8</guid>
+            <pubDate>Fri, 01 Apr 2016 01:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The other part of Artificial Intelligence.]]></title>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
             <guid isPermaLink="false">cf493f5c-590b-4509-acf7-2f349528af8a</guid>
             <pubDate>Thu, 31 Mar 2016 15:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - AI websites that design themselves]]></title>
-            <description><![CDATA[<article><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7a0c542a7bf03f5022e820ef78c21ec7df7c21.png"></article>]]></description>
-            <link>http://blog.iwantmyname.com/2014/10/the-grid.html</link>
-            <guid isPermaLink="false">11692324-54ea-4073-8ff5-ef77bff1e0f1</guid>
-            <pubDate>Thu, 31 Mar 2016 16:33:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
