@@ -17,8 +17,8 @@ keywords:
   - progress
   - setup
 description: "Welcome to The Grid's home for real-time and historical data on system performance."
-datePublished: '2016-04-01T01:46:08.850Z'
-dateModified: '2016-04-01T01:46:04.143Z'
+datePublished: '2016-04-01T01:50:46.862Z'
+dateModified: '2016-04-01T01:50:39.611Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,4 @@ _type: MediaObject
 ---
 <article style=""><h1>The Grid Status</h1><p>Welcome to The Grid's home for real-time and historical data on system performance.</p></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d139da8-acb9-4ca6-ab51-df7d5afe41be.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a61ea7a9797b7b87a1dc25586c40254a9c46339a.jpg)
