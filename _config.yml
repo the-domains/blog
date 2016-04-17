@@ -5,7 +5,7 @@ typography_spectrum: 0.21891
 navigation:
   - url: 'https://thegrid.io/'
     name: Home
-  - url: 'https://thegrid.ai/thegridsupport/'
+  - url: 'https://support.thegrid.io/'
     name: Support
   - url: 'http://status.thegrid.io/'
     name: Status
