@@ -4,11 +4,11 @@ layout_spectrum: 0.10003
 typography_spectrum: 0.21891
 navigation:
   - url: 'https://thegrid.io/'
-    name: Homepage
+    name: Home
   - url: 'https://thegrid.ai/thegridsupport/'
     name: Support
   - url: 'http://status.thegrid.io/'
-    name: Service Status
+    name: Status
 cta:
   domain: null
   bucket: null
