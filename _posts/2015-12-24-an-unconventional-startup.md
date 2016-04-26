@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: "Brian Axe - Co-Founder / Chairman \_"
-datePublished: '2016-03-31T20:39:15.898Z'
-dateModified: '2016-03-31T20:36:51.060Z'
-title: An Unconventional Startup
-author: []
+datePublished: '2016-04-26T23:52:21.813Z'
+dateModified: '2016-04-26T23:39:46.469Z'
+title: 'I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: an-unconventional-startup/index.html
 _type: Article
 
