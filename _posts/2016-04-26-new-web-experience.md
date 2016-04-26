@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-26T23:37:58.979Z'
+datePublished: '2016-04-26T23:52:39.585Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 published: true
-dateModified: '2016-04-26T23:37:58.431Z'
+dateModified: '2016-04-26T23:44:15.739Z'
 title: Launching Mission Control
 publisher:
   name: null
@@ -19,7 +19,7 @@ publisher:
 description: 'We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.'
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: launching-mission-control/index.html
 _type: Article
 
