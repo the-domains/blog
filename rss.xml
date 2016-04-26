@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 15:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 23:38:47 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Thu, 31 Mar 2016 20:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Launching Mission Control]]></title>
+            <description><![CDATA[<article><h1>Launching Mission Control</h1><h2>New Web Experience</h2><p>We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb0b982-d381-4d31-86c9-65d7b5dfc5df.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/launching-mission-control/index.html</link>
+            <guid isPermaLink="false">fc31dcab-c78a-4559-83af-671f3782d119</guid>
+            <pubDate>Tue, 26 Apr 2016 23:37:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid's Eyes]]></title>
@@ -35,8 +42,8 @@
             <pubDate>Thu, 31 Mar 2016 21:28:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jon Gold and Jeff Woods of The Grid at Pause 2016 - Discover Your Future Self. ]]></title>
-            <description><![CDATA[<article><h1>Jon Gold and Jeff Woods of The Grid at Pause 2016 - Discover Your Future Self. </h1><p>Pause Fest is premier creative, tech and business festival for Asia Pacific, a catalyst for innovation, a uniter of industries, a platform for the future. Pause stands for the content you can't Google. www.pause.melbourne</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ebdd6ebba8d4e2b86e675efbc629c33531b5c2f.jpg"></article>]]></description>
+            <title><![CDATA[Pause 2016 - Discover Your Future Self]]></title>
+            <description><![CDATA[<article><h1>Pause 2016 - Discover Your Future Self</h1><p>Pause Fest is premier creative, tech and business festival for Asia Pacific, a catalyst for innovation, a uniter of industries, a platform for the future. Pause stands for the content you can't Google. www.pause.melbourne</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ebdd6ebba8d4e2b86e675efbc629c33531b5c2f.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=MFz6D1PiCS8</link>
             <guid isPermaLink="false">b0bdce5d-52da-4e34-8df9-0854dee0c490</guid>
             <pubDate>Thu, 31 Mar 2016 21:11:07 GMT</pubDate>
@@ -49,6 +56,13 @@
             <pubDate>Thu, 31 Mar 2016 21:10:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[An update from Jon Gold who is working on The Grid's typography system: ]]></title>
+            <description><![CDATA[<article><h1>An update from Jon Gold who is working on The Grid's typography system: </h1><p> Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png"></article>]]></description>
+            <link>http://blog.thegrid.io/behind-the-scenes-typography/index.html</link>
+            <guid isPermaLink="false">7bd4ed0f-ec26-4e70-a2f9-3a6f47a5390b</guid>
+            <pubDate>Thu, 31 Mar 2016 18:32:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Update from Estonia Hack-a-Thon]]></title>
             <description><![CDATA[<article><h1>Update from Estonia Hack-a-Thon</h1><h2>Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. </h2><p>Right now we have to personally on-board every beta user one-at-a-time. 
 
@@ -56,13 +70,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://blog.thegrid.io/update-from-estonia-hack-a-thon/index.html</link>
             <guid isPermaLink="false">159dc9af-b268-4a44-889e-c8f2eda15fed</guid>
             <pubDate>Thu, 31 Mar 2016 17:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An update from Jon Gold who is working on The Grid's typography system: ]]></title>
-            <description><![CDATA[<article><h1>An update from Jon Gold who is working on The Grid's typography system: </h1><p> Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png"></article>]]></description>
-            <link>http://blog.thegrid.io/behind-the-scenes-typography/index.html</link>
-            <guid isPermaLink="false">7bd4ed0f-ec26-4e70-a2f9-3a6f47a5390b</guid>
-            <pubDate>Thu, 31 Mar 2016 18:32:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Uses Artificial Intelligence To Design Your Websites For You]]></title>
