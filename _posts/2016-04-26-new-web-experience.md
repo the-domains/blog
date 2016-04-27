@@ -1,30 +1,32 @@
 ---
-datePublished: '2016-04-27T03:20:08.982Z'
-sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: 'We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.'
+datePublished: '2016-04-27T04:31:56.475Z'
+dateModified: '2016-04-27T03:22:46.650Z'
+title: Launching Mission Control
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-26-new-web-experience.md
 published: true
-dateModified: '2016-04-27T03:19:59.159Z'
-title: Launching Mission Control
+authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-description: ''
-inLanguage: null
-inNav: false
 starred: true
 url: launching-mission-control/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18025f6-0a71-4fa9-9629-3a1b6c226727.jpg)
+
+# Launching Mission Control
 
 > Don't wait for things to be perfect before you share them with others. Show early and show often. It'll be pretty when we get there, but it won't be pretty along the way. ― Ed Catmull,
 
