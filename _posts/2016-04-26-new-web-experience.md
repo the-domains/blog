@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-26T23:52:39.585Z'
+datePublished: '2016-04-27T00:06:20.806Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 published: true
-dateModified: '2016-04-26T23:44:15.739Z'
+dateModified: '2016-04-27T00:05:16.775Z'
 title: Launching Mission Control
 publisher:
   name: null
@@ -72,6 +72,6 @@ We realized that the "website problem" encompasses every facet of the user exper
 
 ## Coming soon: Mission Control Liftoff Part 2
 
-In the upcoming weeks, we will be creating new videos and rolling out the new user interface. Until then wishing you all a wonderful week from all of us at The Grid.
+In the upcoming weeks, we will be creating new videos and rolling out the new web experience interface. Until then wishing you all a wonderful week from all of us at The Grid.
 
 [0]: https://blog.thegrid.io/an-unconventional-startup/
