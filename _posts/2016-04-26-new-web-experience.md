@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-27T00:17:30.142Z'
+datePublished: '2016-04-27T00:59:06.807Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 published: true
-dateModified: '2016-04-27T00:17:22.119Z'
+dateModified: '2016-04-27T00:20:25.713Z'
 title: Launching Mission Control
 publisher:
   name: null
@@ -34,7 +34,7 @@ _type: Article
 
 We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are [an unconventional startup][0]...a distributed team from all over the world, we have these team meet ups or what we call periodical "live-sprints." The "mission" of this live-sprint was to get our overhauled web app ready for people to test.
 
-Why do this? Remarkable happens through an iterative process! When faced with a challenge, especially one that is unprecedented like A.I.-Driven Website Design, the key is to get smarter in the process of putting the "Designer In The Machine."
+Why do this? Remarkable happens through an iterative process! When faced with a challenge as unprecedented like A.I.-Driven Website Design, the key is to get smarter in the process of putting the "Designer In The Machine."
 
 The best way to supercharge getting smarter is to get feedback from people currently using The Grid. People are the essential ingredient in shaping a product that will one day delight beyond expectation. Based on that feedback, we pinpoint which parts of the product cause the most friction. These pain-points are the areas of the experience we, in turn, focus on in our effort to realize A.I.'s potential of creating a beautiful custom web presence for everyone.
 
