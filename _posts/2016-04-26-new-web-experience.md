@@ -1,24 +1,24 @@
 ---
+datePublished: '2016-04-27T04:52:10.324Z'
+sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: 'We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.'
-datePublished: '2016-04-27T04:31:56.475Z'
-dateModified: '2016-04-27T03:22:46.650Z'
-title: Launching Mission Control
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-26-new-web-experience.md
 published: true
-authors: []
+dateModified: '2016-04-27T04:52:01.145Z'
+title: Launching Mission Control
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: 'We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.'
+inLanguage: null
+inNav: false
 starred: true
 url: launching-mission-control/index.html
 _type: Article
@@ -62,7 +62,7 @@ A large image header will guide your experience with beautiful colors of your br
 What is so innovative about this? Currently there is no platform or tools that can create multi-hue user interface with color solutions near the level of polish & dynamism as currently seen from Colorverse.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0801bd-4d8d-4548-a664-127772193330.png)
 
-## A Better Poet
+## The Poet
 
 We realized that the "website problem" encompasses every facet of the user experience including and especially the subtleties of UI design that subliminally impact the user experience. Because of our core AI knowledge systems we can now do the unprecedented; build and maintain a dynamic UI color palette from your content. The goal is enhancing user experience beyond the status quo of today's solutions. While this hasn't been easy, we have doggedly maintained our commitment to creating a more beautiful internet - as revealed in our new post editor (see below).
 
