@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-27T00:06:20.806Z'
+datePublished: '2016-04-27T00:17:30.142Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 published: true
-dateModified: '2016-04-27T00:05:16.775Z'
+dateModified: '2016-04-27T00:17:22.119Z'
 title: Launching Mission Control
 publisher:
   name: null
@@ -34,9 +34,9 @@ _type: Article
 
 We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are [an unconventional startup][0]...a distributed team from all over the world, we have these team meet ups or what we call periodical "live-sprints." The "mission" of this live-sprint was to get our overhauled web app ready for people to test.
 
-Why do this? Remarkable happens through an iteration process! When faced with a challenge, especially one that is unprecedented like A.I.-Driven Website Design, the key is to get smarter in the process of putting the "Designer In The Machine."
+Why do this? Remarkable happens through an iterative process! When faced with a challenge, especially one that is unprecedented like A.I.-Driven Website Design, the key is to get smarter in the process of putting the "Designer In The Machine."
 
-The best way to supercharge getting smarter is to get feedback from people currently using The Grid. People are the key ingredient in shaping a product that will one day delight beyond expectation. Based on that feedback, we pinpoint which parts of the product cause the most friction. These pain-points are the areas of the experience we, in turn, focus on in our effort to realize A.I.'s potential of creating a beautiful custom web presence for everyone.
+The best way to supercharge getting smarter is to get feedback from people currently using The Grid. People are the essential ingredient in shaping a product that will one day delight beyond expectation. Based on that feedback, we pinpoint which parts of the product cause the most friction. These pain-points are the areas of the experience we, in turn, focus on in our effort to realize A.I.'s potential of creating a beautiful custom web presence for everyone.
 
 After our initial closed beta launch to the first wave of Founding Members, we realized that the experience needed an overhaul. It was a long way from our value proposition: "As easy and enjoyable as using a social network." So we are making it clear, concise and speedy! In this new experience, we are committed to a coherent paradigm for interacting with the internet through The Grid. (see images below)
 
@@ -72,6 +72,6 @@ We realized that the "website problem" encompasses every facet of the user exper
 
 ## Coming soon: Mission Control Liftoff Part 2
 
-In the upcoming weeks, we will be creating new videos and rolling out the new web experience interface. Until then wishing you all a wonderful week from all of us at The Grid.
+In the upcoming weeks, we will be creating new videos and rolling out The Grid's new web experience. Until then wishing you all a wonderful week from all of us at The Grid.
 
 [0]: https://blog.thegrid.io/an-unconventional-startup/
