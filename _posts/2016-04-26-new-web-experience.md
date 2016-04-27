@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-27T04:52:10.324Z'
+datePublished: '2016-04-27T04:59:36.198Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -9,8 +9,8 @@ author:
   - name: ''
     url: ''
 published: true
-dateModified: '2016-04-27T04:52:01.145Z'
-title: Launching Mission Control
+dateModified: '2016-04-27T04:59:23.077Z'
+title: New Web Experience
 publisher:
   name: null
   domain: null
@@ -25,8 +25,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18025f6-0a71-4fa9-9629-3a1b6c226727.jpg)
-
-# Launching Mission Control
 
 > Don't wait for things to be perfect before you share them with others. Show early and show often. It'll be pretty when we get there, but it won't be pretty along the way. ― Ed Catmull,
 
