@@ -1,82 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Grid Blog]]></title>
-        <description><![CDATA[The Grid Blog]]></description>
-        <link>http://blog.thegrid.io/</link>
+        <title><![CDATA[Jeff Woods]]></title>
+        <description><![CDATA[Jeff Woods]]></description>
+        <link>https://thegrid.ai/jeffwoods/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 05:06:50 GMT</lastBuildDate>
-        <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 00:41:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeffwoods/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[New Web Experience]]></title>
-            <description><![CDATA[<article><h1>New Web Experience</h1><p>We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18025f6-0a71-4fa9-9629-3a1b6c226727.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/launching-mission-control/index.html</link>
-            <guid isPermaLink="false">fc31dcab-c78a-4559-83af-671f3782d119</guid>
-            <pubDate>Wed, 27 Apr 2016 05:06:13 GMT</pubDate>
+            <title><![CDATA[Launching Mission Control]]></title>
+            <description><![CDATA[<article><h1>Launching Mission Control</h1><h2>New Web Experience</h2><p>We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb0b982-d381-4d31-86c9-65d7b5dfc5df.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jeffwoods/launching-mission-control/index.html</link>
+            <guid isPermaLink="false">974cc481-c858-46e3-807f-e149ac7ce61d</guid>
+            <pubDate>Tue, 26 Apr 2016 23:51:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
-            <description><![CDATA[<article><h1>I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.</h1><p>Brian Axe - Co-Founder / Chairman  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/add78c2bda337b969f3cbf3e311d659f1fe6b678.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
-            <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
-            <pubDate>Tue, 26 Apr 2016 23:52:21 GMT</pubDate>
+            <title><![CDATA[In The air]]></title>
+            <description><![CDATA[<article><h1>In The air</h1><p>Aerial photography is the taking of photographs of the ground from an elevated/direct-down position. Usually the camera is not supported by a ground-based structure. Platforms for aerial photography include fixed-wing aircraft, helicopters, multirotor Unmanned Aircraft Systems (UAS), balloons, blimps and dirigibles,rockets, pigeons, kites, parachutes, stand-alone telescoping and vehicle-mounted poles. Mounted cameras may be triggered remotely or automatically; hand-held photographs may be taken by a photographer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/190d1c0bc4cd393b5b65e2da8c8945cacbbf7e7c.jpg"></article>]]></description>
+            <link>https://source.unsplash.com/random</link>
+            <guid isPermaLink="false">3354754b-00bb-4871-8991-a4fb541a9c41</guid>
+            <pubDate>Sat, 23 Apr 2016 02:51:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Grid's Eyes]]></title>
-            <description><![CDATA[<article><h1>The Grid's Eyes</h1><p>Since last year I'm working together with Jon Nordby, Henri Bergius and Gabriela Thumé on an image analytics pipeline to The Grid. Basically, we are teaching our AI to identify patterns and extract relevant information from raw image data. We apply algorithms and techniques from the Computer Vision field.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2e457a276945952a26d875bef3633f0a5b148f9.jpg"></article>]]></description>
-            <link>http://automata.cc/saliency-extraction/</link>
-            <guid isPermaLink="false">184f70af-eeab-4f72-ad2a-e1f05e0b8a26</guid>
-            <pubDate>Fri, 01 Apr 2016 15:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jon Nordby - Software Engineer at The Grid.]]></title>
-            <description><![CDATA[<article><h1>Jon Nordby - Software Engineer at The Grid.</h1><p>Now there are a couple limitations of this model. Primarily, it is completely reactive; we do not attempt to predict how traffic will develop in the future. Prediction is after all terribly tricky business - better not go there if it can be avoided.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90807e94bb623e7ae916c3a35e3f4ff582a5e960.png"></article>]]></description>
-            <link>http://www.jonnor.com/</link>
-            <guid isPermaLink="false">7f58ec46-65a8-4432-b2f6-e659f82396b0</guid>
-            <pubDate>Fri, 01 Apr 2016 14:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The other part of Artificial Intelligence.]]></title>
-            <description><![CDATA[<article><h1>The other part of Artificial Intelligence.</h1><p>"Machine" + "Learning" ... Oh, the beauty, the contrast, the tension of mechanical hardness possessed with the infinite fluidness of mind. ("Constraint" || "Logic") + ("Programming" || "Satisfaction" || "Solvers") ... No contrast, no inspiration inducing tension.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4875bda0829d210383c01e04b640ac63d2b5e153.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/the-other-part-of-artificial-intelligence/index.html</link>
-            <guid isPermaLink="false">56a09369-2dbe-41ce-a08e-2498d85d02be</guid>
-            <pubDate>Thu, 31 Mar 2016 21:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pause 2016 - Discover Your Future Self]]></title>
-            <description><![CDATA[<article><h1>Pause 2016 - Discover Your Future Self</h1><p>Pause Fest is premier creative, tech and business festival for Asia Pacific, a catalyst for innovation, a uniter of industries, a platform for the future. Pause stands for the content you can't Google. www.pause.melbourne</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ebdd6ebba8d4e2b86e675efbc629c33531b5c2f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=MFz6D1PiCS8</link>
-            <guid isPermaLink="false">b0bdce5d-52da-4e34-8df9-0854dee0c490</guid>
-            <pubDate>Thu, 31 Mar 2016 21:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>Henri Bergius - Websites Designed by Artificial Intelligence</h1><p>Henri Bergius, VP engineering at The Grid, an AI that builds your website based on its content, hacker and occasional adventurer, is the creator of Create.js and NoFlo. In this second talk of the session Artificial Intelligence, Technology without Alternative?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5671f606c22b547bbb9d574bc8536458e38b71ef.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=v65HLBGLG_g&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">d41db27b-da3c-41e1-8b2d-1f0364129715</guid>
-            <pubDate>Thu, 31 Mar 2016 21:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An update from Jon Gold who is working on The Grid's typography system: ]]></title>
-            <description><![CDATA[<article><h1>An update from Jon Gold who is working on The Grid's typography system: </h1><p> Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png"></article>]]></description>
-            <link>http://blog.thegrid.io/behind-the-scenes-typography/index.html</link>
-            <guid isPermaLink="false">7bd4ed0f-ec26-4e70-a2f9-3a6f47a5390b</guid>
-            <pubDate>Thu, 31 Mar 2016 18:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update from Estonia Hack-a-Thon]]></title>
-            <description><![CDATA[<article><h1>Update from Estonia Hack-a-Thon</h1><h2>Our very international team is in the heat of a hack-a-thon in Estonia, slaving 24/7 to rollout the mobile & web apps to the 60,000+ founders who believed in our team & vision. </h2><p>Right now we have to personally on-board every beta user one-at-a-time. 
-
-Our iOS app is going through review in the App store right now & we expect to start auto-rollout to our founding members this month. </p></article>]]></description>
-            <link>http://blog.thegrid.io/update-from-estonia-hack-a-thon/index.html</link>
-            <guid isPermaLink="false">159dc9af-b268-4a44-889e-c8f2eda15fed</guid>
-            <pubDate>Thu, 31 Mar 2016 17:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid Uses Artificial Intelligence To Design Your Websites For You]]></title>
-            <description><![CDATA[<article><h1>The Grid Uses Artificial Intelligence To Design Your Websites For You</h1><p>Designing a good-looking website has never been easy, and while many services promise to let you build a site without ever having to touch any code, you quickly reach their limits if you want to have a more advanced site. The Grid, which is launching its crowdfunding campaign today, promises to do away with all of this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bb7833526a39147f41634429eb832f3d3799d1.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2014/10/08/the-grid-uses-artificial-intelligence-to-design-your-websites-for-you/</link>
-            <guid isPermaLink="false">206a0182-cf31-43ad-a7d9-1dbb82d2ec49</guid>
-            <pubDate>Thu, 31 Mar 2016 15:56:35 GMT</pubDate>
+            <title><![CDATA[Bubble Nebula]]></title>
+            <description><![CDATA[<article><h1>Bubble Nebula</h1><p>To mark Hubble's 26th birthday, astronomers captured this party balloon-like sphere of gas being blown into space by a super-hot, massive star. The Bubble Nebula, or NGC 7635, is caused by hot gas escaping into space from a star 45 times more massive than the Sun.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/678673e98a79ff4f3543a8fa0d16f9cb41ead6a4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jeffwoods/bubble-nebula/index.html</link>
+            <guid isPermaLink="false">9cf4db17-9712-4364-a885-e21b252ab191</guid>
+            <pubDate>Sat, 07 May 2016 00:25:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
