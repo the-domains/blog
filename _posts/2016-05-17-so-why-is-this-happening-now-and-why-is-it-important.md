@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-datePublished: '2016-05-17T19:59:07.341Z'
-dateModified: '2016-05-17T19:59:04.369Z'
+datePublished: '2016-05-17T20:02:42.534Z'
+dateModified: '2016-05-17T20:02:35.306Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
@@ -48,7 +48,6 @@ So what's "content marketing" all about and how can you keep up with the Birchbo
 A successful content marketing strategy establishes you as a trusted expert in your field. It makes you a connector, rather than a seller.
 
 _Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience --- and, ultimately, to drive profitable customer action._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16e8f190-af76-4a9d-b893-f72ca14fd41c.jpg)
 
 Content is the Present -- and Future -- of Marketing.
 
