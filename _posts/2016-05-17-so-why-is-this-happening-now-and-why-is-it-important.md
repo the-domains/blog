@@ -1,12 +1,12 @@
 ---
 description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-dateModified: '2016-05-17T16:23:18.384Z'
-datePublished: '2016-05-17T16:23:49.389Z'
+dateModified: '2016-05-17T16:24:03.854Z'
+datePublished: '2016-05-17T16:24:04.331Z'
 title: So why is this happening now and why is it important?
 author:
   - name: Jeff Woods
-starred: false
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
