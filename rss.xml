@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 16:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 16:26:44 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Small Business Owner’s Down-and-Dirty Guide to “Platishing”]]></title>
+            <description><![CDATA[<article><h1>A Small Business Owner’s Down-and-Dirty Guide to “Platishing”</h1><p>First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd82aa83ffeb8d67ce6bbf162a156302e4fbc53d.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/a-small-business-owners-down-and-dirty-guide-to-platishing/index.html</link>
+            <guid isPermaLink="false">533615b8-1b5b-4ace-8049-62eaca8d4280</guid>
+            <pubDate>Tue, 17 May 2016 16:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Launching Mission Control]]></title>
             <description><![CDATA[<article><h1>Launching Mission Control</h1><h2>New Web Experience</h2><p>We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb0b982-d381-4d31-86c9-65d7b5dfc5df.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ Our iOS app is going through review in the App store right now & we expect to st
             <link>http://blog.thegrid.io/update-from-estonia-hack-a-thon/index.html</link>
             <guid isPermaLink="false">159dc9af-b268-4a44-889e-c8f2eda15fed</guid>
             <pubDate>Thu, 31 Mar 2016 17:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid Uses Artificial Intelligence To Design Your Websites For You]]></title>
-            <description><![CDATA[<article><h1>The Grid Uses Artificial Intelligence To Design Your Websites For You</h1><p>Designing a good-looking website has never been easy, and while many services promise to let you build a site without ever having to touch any code, you quickly reach their limits if you want to have a more advanced site. The Grid, which is launching its crowdfunding campaign today, promises to do away with all of this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bb7833526a39147f41634429eb832f3d3799d1.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2014/10/08/the-grid-uses-artificial-intelligence-to-design-your-websites-for-you/</link>
-            <guid isPermaLink="false">206a0182-cf31-43ad-a7d9-1dbb82d2ec49</guid>
-            <pubDate>Thu, 31 Mar 2016 15:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
