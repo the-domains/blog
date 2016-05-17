@@ -1,23 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-datePublished: '2016-05-17T19:08:17.092Z'
-dateModified: '2016-05-17T19:08:10.896Z'
+datePublished: '2016-05-17T19:09:38.465Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: Jeff Woods
     url: ''
-title: Content is the Present – and Future – of Marketing.
-authors: []
+dateModified: '2016-05-17T19:09:25.813Z'
+title: A Small Business Owner’s Down-and-Dirty Guide to “Platishing”
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
+inLanguage: null
+inNav: false
 starred: true
 url: content-is-the-present-and-future-of-marketing/index.html
 _type: Article
@@ -51,7 +51,7 @@ A successful content marketing strategy establishes you as a trusted expert in y
 
 _Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience --- and, ultimately, to drive profitable customer action._
 
-## Content is the Present -- and Future -- of Marketing.
+Content is the Present -- and Future -- of Marketing.
 
 **The first step is to get curious and ask questions like:**
 
