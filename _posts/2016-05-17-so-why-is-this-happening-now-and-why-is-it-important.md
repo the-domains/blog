@@ -1,29 +1,29 @@
 ---
+datePublished: '2016-05-17T16:32:09.989Z'
+sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-datePublished: '2016-05-17T16:29:45.206Z'
-dateModified: '2016-05-17T16:29:38.927Z'
-title: A Small Business Owner’s Down-and-Dirty Guide to “Platishing”
 author:
   - name: Jeff Woods
     url: ''
-sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
-authors: []
+dateModified: '2016-05-17T16:32:06.087Z'
+title: Content is the Present – and Future – of Marketing.
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
+inLanguage: null
+inNav: false
 starred: true
 url: a-small-business-owners-down-and-dirty-guide-to-platishing/index.html
 _type: Article
 
 ---
-<article style=""><h1>A Small Business Owner’s Down-and-Dirty Guide to “Platishing”</h1><p>The New Way of Marketing Online</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd82aa83ffeb8d67ce6bbf162a156302e4fbc53d.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd82aa83ffeb8d67ce6bbf162a156302e4fbc53d.jpg" /><h1>A Small Business Owner’s Down-and-Dirty Guide to “Platishing”</h1><p>The New Way of Marketing Online</p></article>
 
 First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called [Rise of the Platishers. ][0]In his words it's something in between a publisher and a platform --- something that weaves together the strengths of both.So why is this happening now and why is it important.
 
@@ -53,17 +53,25 @@ _Content marketing is a strategic marketing approach focused on creating and dis
 
 **The first step is to get curious and ask questions like:**
 
-1. How can we create content that's all about connection?
-2. Where can we find the right resources for seamlessly sharing our content online?
-3. Is there a way to build our web prepurposefully and quickly? (cough cough)
-4. How can we make managing content seamless instead of a shit-show? (Maybe we should say insanity-inducing instead ;)
-5. How can we create collaborative experiences worth sharing?
-6. Are there ways to automate content without compromising quality?
-7. What the heck is a "[CTA][3]" and how can we use them to build real relationships?
-8. Is it possible to build your own brand online without selling your soul to someone else's. (Facebook, Pinterest, Twitter)?
-9. Where can we find the next generation of web tools? (Do they even exist?...we think they do ;)
+How can we create content that's all about connection?
 
-There's something new -- something game-changing -- going on right now with the web. A new generation is experimenting with making "content-management systems" super simple instead of just super frustrating.
+Where can we find the right resources for seamlessly sharing our content online?
+
+Is there a way to build our web prepurposefully and quickly? (cough cough)
+
+How can we make managing content seamless instead of a shit-show? (Maybe we should say insanity-inducing instead ;)
+
+How can we create collaborative experiences worth sharing?
+
+Are there ways to automate content without compromising quality?
+
+What the heck is a "[CTA][3]" and how can we use them to build real relationships?
+
+Is it possible to build your own brand online without selling your soul to someone else's. (Facebook, Pinterest, Twitter)?
+
+Where can we find the next generation of web tools? (Do they even exist?...we think they do ;)
+
+**There's something new -- something game-changing -- going on right now with the web. A new generation is experimenting with making "content-management systems" super simple instead of just super frustrating.**
 
 After all, as small business owners, we believe the web should be a force for good. Let's start making that belief a reality.
 
