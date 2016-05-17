@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-datePublished: '2016-05-17T19:31:32.340Z'
-dateModified: '2016-05-17T19:31:27.910Z'
+datePublished: '2016-05-17T19:45:46.435Z'
+dateModified: '2016-05-17T19:45:41.341Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
@@ -39,7 +39,7 @@ The big players are already doing it. Birchbox, the tremendously successful beau
 
 > When we first started Birchbox one of the first things that we did was make sure that we had good content and good brand voice.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17094c6-b18b-4f05-a506-ec328e28f3a1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c8faaa45fb34f2133e7e95a126d232411b4f033.jpg)
 
 The Content Marketing Institute recently[reported ][2]that 80 percent of decision-makers prefer to get company information in a series of articles rather than in ads.
 
