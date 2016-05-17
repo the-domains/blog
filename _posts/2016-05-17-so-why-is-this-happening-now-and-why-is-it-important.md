@@ -1,31 +1,29 @@
 ---
-datePublished: '2016-05-17T19:09:38.465Z'
-sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
+datePublished: '2016-05-17T19:27:03.051Z'
+dateModified: '2016-05-17T19:26:56.419Z'
+sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
     url: ''
-dateModified: '2016-05-17T19:09:25.813Z'
 title: A Small Business Owner’s Down-and-Dirty Guide to “Platishing”
+authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-inLanguage: null
-inNav: false
 starred: true
 url: content-is-the-present-and-future-of-marketing/index.html
 _type: Article
 
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd82aa83ffeb8d67ce6bbf162a156302e4fbc53d.jpg" /><h1>A Small Business Owner’s Down-and-Dirty Guide to “Platishing”</h1><p>The New Way of Marketing Online</p></article>
-
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02c276517322eb8f3914f62bc0e2c04acaee4114.jpg)
 
 First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called [Rise of the Platishers. ][0]In his words it's something in between a publisher and a platform --- something that weaves together the strengths of both.So why is this happening now and why is it important.
 
