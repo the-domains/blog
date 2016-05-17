@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-27T05:06:13.091Z'
+datePublished: '2016-05-17T15:48:03.509Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -8,9 +8,8 @@ keywords: []
 author:
   - name: ''
     url: ''
-published: true
-dateModified: '2016-04-27T05:05:56.008Z'
-title: New Web Experience
+dateModified: '2016-05-07T04:27:51.481Z'
+title: Launching Mission Control
 publisher:
   name: null
   domain: null
@@ -24,9 +23,9 @@ url: launching-mission-control/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18025f6-0a71-4fa9-9629-3a1b6c226727.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb0b982-d381-4d31-86c9-65d7b5dfc5df.jpg)
 
-# **Launching Mission Control**
+# Launching Mission Control
 
 > Don't wait for things to be perfect before you share them with others. Show early and show often. It'll be pretty when we get there, but it won't be pretty along the way. ― Ed Catmull,
 
@@ -34,9 +33,9 @@ _type: Article
 
 We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are [an unconventional startup][0]...a distributed team from all over the world, we have these team meet ups or what we call periodical "live-sprints." The "mission" of this live-sprint was to get our overhauled web app ready for people to test.
 
-Why do this? Remarkable happens through an iterative process! When faced with a challenge as unprecedented like A.I.-Driven Website Design, the key is to get smarter in the process of putting the "Designer In The Machine."
+Why do this? Remarkable happens through an iteration process! When faced with a challenge, especially one that is unprecedented like A.I.-Driven Website Design, the key is to get smarter in the process of putting the "Designer In The Machine."
 
-The best way to supercharge getting smarter is to get feedback from people currently using The Grid. People are the essential ingredient in shaping a product that will one day delight beyond expectation. Based on that feedback, we pinpoint which parts of the product cause the most friction. These pain-points are the areas of the experience we, in turn, focus on in our effort to realize A.I.'s potential of creating a beautiful custom web presence for everyone.
+The best way to supercharge getting smarter is to get feedback from people currently using The Grid. People are the key ingredient in shaping a product that will one day delight beyond expectation. Based on that feedback, we pinpoint which parts of the product cause the most friction. These pain-points are the areas of the experience we, in turn, focus on in our effort to realize A.I.'s potential of creating a beautiful custom web presence for everyone.
 
 After our initial closed beta launch to the first wave of Founding Members, we realized that the experience needed an overhaul. It was a long way from our value proposition: "As easy and enjoyable as using a social network." So we are making it clear, concise and speedy! In this new experience, we are committed to a coherent paradigm for interacting with the internet through The Grid. (see images below)
 
@@ -62,7 +61,7 @@ A large image header will guide your experience with beautiful colors of your br
 What is so innovative about this? Currently there is no platform or tools that can create multi-hue user interface with color solutions near the level of polish & dynamism as currently seen from Colorverse.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0801bd-4d8d-4548-a664-127772193330.png)
 
-## The Poet
+## A Better Poet
 
 We realized that the "website problem" encompasses every facet of the user experience including and especially the subtleties of UI design that subliminally impact the user experience. Because of our core AI knowledge systems we can now do the unprecedented; build and maintain a dynamic UI color palette from your content. The goal is enhancing user experience beyond the status quo of today's solutions. While this hasn't been easy, we have doggedly maintained our commitment to creating a more beautiful internet - as revealed in our new post editor (see below).
 
@@ -72,6 +71,6 @@ We realized that the "website problem" encompasses every facet of the user exper
 
 ## Coming soon: Mission Control Liftoff Part 2
 
-In the upcoming weeks, we will be creating new videos and rolling out The Grid's new web experience. Until then wishing you all a wonderful week from all of us at The Grid.
+In the upcoming weeks, we will be creating new videos and rolling out the new user interface. Until then wishing you all a wonderful week from all of us at The Grid.
 
 [0]: https://blog.thegrid.io/an-unconventional-startup/
