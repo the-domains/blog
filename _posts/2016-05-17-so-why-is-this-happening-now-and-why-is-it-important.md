@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both.So why is this happening now and why is it important.
-datePublished: '2016-05-17T20:34:54.806Z'
-dateModified: '2016-05-17T20:34:48.815Z'
+description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both. So why is this happening now and why is it important.
+datePublished: '2016-05-18T02:14:07.181Z'
+dateModified: '2016-05-18T02:14:01.752Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
@@ -31,7 +31,7 @@ So why is this happening now and why is it important?
 
 One of the reason, Glick goes on to say, is the rapidly changing landscape of media distribution and revenue. The combination of mobile's small screens and programmatic ad buying has made it clear that successful consumer properties need to have enormous amounts of traffic, and ad units that are essentially content.
 
-_Consumers crave content. In fact, they demand it like foodies in search of the next best boutique burger._
+## Consumers crave content. In fact, they demand it like foodies in search of the next best boutique burger.
 
 Consistently creating and publishing kick-ass content isn't just "icing on the cake" anymore; it's a must-have component of every small business owners marketing strategy. Useful content should be at the core of your marketing.
 
@@ -41,7 +41,7 @@ The big players are already doing it. Birchbox, the tremendously successful beau
 
 The Content Marketing Institute recently[reported ][2]that 80 percent of decision-makers prefer to get company information in a series of articles rather than in ads.
 
-_The bottom line is this: People want to be inspired and educated online, not sold to or patronized._
+The bottom line is this: People want to be inspired and educated online, not sold to or patronized.
 
 So what's "content marketing" all about and how can you keep up with the Birchboxes of the world, while inspiring your own audience? Simply put, content marketing means providing valuable information to your current and potential customers for the purpose of earning their trust and making more meaningful transactions.
 
@@ -49,7 +49,7 @@ A successful content marketing strategy establishes you as a trusted expert in y
 
 _Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience --- and, ultimately, to drive profitable customer action._
 
-Content is the Present -- and Future -- of Marketing.
+## Content is the Present -- and Future -- of Marketing.
 
 **The first step is to get curious and ask questions like:**
 
