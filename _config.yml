@@ -2,6 +2,7 @@ name: The Grid Blog
 favicon: null
 layout_spectrum: 0.08640022180043161
 typography_spectrum: 0.82679
+style: the-composer
 navigation:
   - url: 'https://thegrid.io/'
     name: Home
