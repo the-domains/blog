@@ -1,6 +1,6 @@
 name: The Grid Blog
 favicon: null
-layout_spectrum: 0.08640022180043161
+layout_spectrum: 0.75175
 typography_spectrum: 0.82679
 style: the-composer
 navigation:
@@ -24,13 +24,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1d1c23'
-    - '#ffffff'
-    - '#909792'
-    - '#535357'
-    - '#deb54b'
-  brandStrength: 0
+    - '#3bd1dd'
+    - '#f99d98'
+    - '#fefefe'
+    - '#0c7da7'
+    - '#0b3f87'
+  brandStrength: 0.5
   lightness: 1
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
