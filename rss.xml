@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 14:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 15:06:10 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Small Business Owner’s Down-and-Dirty Guide to “Platishing”]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Announcing MsgFlo, a distributed FBP runtime]]></title>
-            <description><![CDATA[<article><h1>Announcing MsgFlo, a distributed FBP runtime</h1><p>At The Grid we do a lot of CPU intensive work on the backend as part of producing web pages. This includes content extraction, normalization, image analytics, webpage auto-layout using constraint solvers, webpage optimization ( GSS to CSS compilation) and image processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec9ed02492551dd8f9e43f16383f71b20d1ecb06.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Announcing MsgFlo, a distributed FBP runtime</h1><p>At The Grid we do a lot of CPU intensive work on the backend as part of producing web pages. This includes content extraction, normalization, image analytics, webpage auto-layout using constraint solvers, webpage optimization ( GSS to CSS compilation) and image processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90807e94bb623e7ae916c3a35e3f4ff582a5e960.png"></article>]]></description>
             <link>http://www.jonnor.com/2015/06/announcing-msgflo-a-distributed-fbp-runtime/</link>
             <guid isPermaLink="false">ad24e466-82ff-492a-b26e-1bd483650a0c</guid>
             <pubDate>Wed, 25 May 2016 14:40:07 GMT</pubDate>
@@ -42,25 +42,11 @@
             <pubDate>Fri, 01 Apr 2016 15:21:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jon Nordby - Software Engineer at The Grid.]]></title>
-            <description><![CDATA[<article><h1>Jon Nordby - Software Engineer at The Grid.</h1><p>Now there are a couple limitations of this model. Primarily, it is completely reactive; we do not attempt to predict how traffic will develop in the future. Prediction is after all terribly tricky business - better not go there if it can be avoided.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90807e94bb623e7ae916c3a35e3f4ff582a5e960.png"></article>]]></description>
-            <link>http://www.jonnor.com/</link>
-            <guid isPermaLink="false">7f58ec46-65a8-4432-b2f6-e659f82396b0</guid>
-            <pubDate>Fri, 01 Apr 2016 14:50:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The other part of Artificial Intelligence.]]></title>
             <description><![CDATA[<article><h1>The other part of Artificial Intelligence.</h1><p>"Machine" + "Learning" ... Oh, the beauty, the contrast, the tension of mechanical hardness possessed with the infinite fluidness of mind. ("Constraint" || "Logic") + ("Programming" || "Satisfaction" || "Solvers") ... No contrast, no inspiration inducing tension.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4875bda0829d210383c01e04b640ac63d2b5e153.jpg"></article>]]></description>
             <link>http://blog.thegrid.io/the-other-part-of-artificial-intelligence/index.html</link>
             <guid isPermaLink="false">56a09369-2dbe-41ce-a08e-2498d85d02be</guid>
             <pubDate>Thu, 31 Mar 2016 21:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pause 2016 - Discover Your Future Self]]></title>
-            <description><![CDATA[<article><h1>Pause 2016 - Discover Your Future Self</h1><p>Pause Fest is premier creative, tech and business festival for Asia Pacific, a catalyst for innovation, a uniter of industries, a platform for the future. Pause stands for the content you can't Google. www.pause.melbourne</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ebdd6ebba8d4e2b86e675efbc629c33531b5c2f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=MFz6D1PiCS8</link>
-            <guid isPermaLink="false">b0bdce5d-52da-4e34-8df9-0854dee0c490</guid>
-            <pubDate>Thu, 31 Mar 2016 21:11:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
