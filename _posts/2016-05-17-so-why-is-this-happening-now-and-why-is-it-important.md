@@ -4,21 +4,22 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both. So why is this happening now and why is it important.
-datePublished: '2016-05-18T02:14:07.181Z'
-dateModified: '2016-05-18T02:14:01.752Z'
+description: >-
+  First off what is Platishing or a Platisher? The phrase was coined by Jonathan
+  Glick when he wrote an article called Rise of the Platishers. In his words
+  it’s something in between a publisher and a platform — something that weaves
+  together the strengths of both. So why is this happening now and why is it
+  important.
+datePublished: '2016-07-11T15:36:29.789Z'
+dateModified: '2016-07-11T15:36:28.885Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
     url: ''
 title: A Small Business Owner’s Down-and-Dirty Guide to “Platishing”
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: true
+publisher: null
+starred: false
 url: content-is-the-present-and-future-of-marketing/index.html
 _type: Article
 
