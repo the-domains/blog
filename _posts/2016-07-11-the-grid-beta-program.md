@@ -1,9 +1,14 @@
 ---
+datePublished: '2016-07-11T17:40:37.347Z'
+sourcePath: _posts/2016-07-11-the-grid-beta-program.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-07-11T17:40:25.402Z'
+title: The Grid Beta Program
+publisher: null
 description: >-
   Thanks to the great support of our Founding Members we have come a long way at
   The Grid. Our earlier FMs have patiently tested and given us great feedback.
@@ -16,13 +21,8 @@ description: >-
   whether you are an early FM or a more recent one, we encourage you to
   experience The Grid before we open up to the general public in the coming
   months.
-datePublished: '2016-07-11T17:34:58.488Z'
-dateModified: '2016-07-11T17:34:53.111Z'
-title: The Grid Beta Program
-author: []
-sourcePath: _posts/2016-07-11-the-grid-beta-program.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
 url: the-grid-beta-program/index.html
 _type: Article
