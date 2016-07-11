@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-11T23:01:07.443Z'
+datePublished: '2016-07-11T23:15:13.210Z'
 sourcePath: _posts/2016-07-11-the-grid-beta-program.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-11T23:00:57.809Z'
+dateModified: '2016-07-11T23:15:09.380Z'
 title: The Grid Beta Program
 publisher: null
 description: >-
@@ -28,7 +28,7 @@ url: the-grid-beta-program/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54b97116-22e2-4a1a-9daf-97ed3af0c632.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58347904-a501-403a-b1dc-a0945ab356b8.gif)
 
 # **The Grid Beta Program**
 
@@ -47,7 +47,7 @@ You want your website visitors to have the best experience possible, and we want
 **Perfecting Filters & Adding Photos**
 
 We hear you photographers! We hear you, and we agree. True colors will shine through soon, and filters will be an option rather than a default.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6090188009c9c05ea942bac8ec4741de/croprotate.png?cropheight=1246&cropwidth=2473&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4ed99bfe-e9f5-45cd-913a-60ee13d07340.png&x=0&y=12)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e93c83186a00f50503be758d6662889aebee617.png)
 
 Till next time, send us your requests and feedback at [feedback@thegrid.io][0] & catch us on Twitter [@thegrid][1].
 
