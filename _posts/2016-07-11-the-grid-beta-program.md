@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Thanks to the great support of our Founding Members we have come a long way at
   The Grid. Our earlier FMs have patiently tested and given us great feedback.
@@ -11,18 +16,16 @@ description: >-
   whether you are an early FM or a more recent one, we encourage you to
   experience The Grid before we open up to the general public in the coming
   months.
-dateModified: '2016-07-11T15:51:31.713Z'
-datePublished: '2016-07-11T15:52:50.507Z'
+datePublished: '2016-07-11T17:34:58.488Z'
+dateModified: '2016-07-11T17:34:53.111Z'
 title: The Grid Beta Program
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54b97116-22e2-4a1a-9daf-97ed3af0c632.png
-starred: false
 sourcePath: _posts/2016-07-11-the-grid-beta-program.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: the-grid-beta-program/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54b97116-22e2-4a1a-9daf-97ed3af0c632.png)
@@ -44,7 +47,7 @@ You want your website visitors to have the best experience possible, and we want
 **Perfecting Filters & Adding Photos**
 
 We hear you photographers! We hear you, and we agree. True colors will shine through soon, and filters will be an option rather than a default.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c137bd2b6383949b957a9c16894255f/croprotate.png?cropheight=1246&cropwidth=2473&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fca1ab823-0414-4bd1-9495-2160d00b7df3.png&x=0&y=12)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21d147b1ed2c080ed330f16c76bbc8d380cbdb8d.png)
 
 Till next time, send us your requests and feedback at [feedback@thegrid.io][0] & catch us on Twitter [@thegrid][1].
 
