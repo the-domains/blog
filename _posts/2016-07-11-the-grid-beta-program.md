@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-11T23:15:13.210Z'
+datePublished: '2016-07-12T17:18:06.076Z'
 sourcePath: _posts/2016-07-11-the-grid-beta-program.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-11T23:15:09.380Z'
+dateModified: '2016-07-12T17:17:51.435Z'
 title: The Grid Beta Program
 publisher: null
 description: >-
