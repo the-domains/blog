@@ -1,27 +1,4 @@
-name: The Grid Blog
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.82679
-style: the-composer
-navigation:
-  - url: 'https://thegrid.io/'
-    name: Home
-  - url: 'https://support.thegrid.io/'
-    name: Support
-  - url: 'http://status.thegrid.io/'
-    name: Status
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3bd1dd'
@@ -33,4 +10,29 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/584447b5-d72d-40c6-9ef1-53ef6804859f.png
+name: The Grid Blog
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: the-composer
+navigation:
+  - url: 'https://thegrid.io/'
+    name: Home
+  - url: 'https://support.thegrid.io/'
+    name: Support
+  - url: 'http://status.thegrid.io/'
+    name: Status
+favicon: null
 purpose: []
