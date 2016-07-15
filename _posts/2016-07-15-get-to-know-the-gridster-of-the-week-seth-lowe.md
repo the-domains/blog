@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-15T20:52:50.464Z'
-datePublished: '2016-07-15T20:53:08.084Z'
+dateModified: '2016-07-15T20:59:45.593Z'
+datePublished: '2016-07-15T21:00:03.397Z'
 title: Get to know The Gridster of the week Seth Lowe.
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db327c4-b043-40a3-aff7-abbf82176657.jpg
-starred: false
 sourcePath: _posts/2016-07-15-get-to-know-the-gridster-of-the-week-seth-lowe.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -50,7 +50,7 @@ _type: MediaObject
 
 **Gridster:** Seeing as I was born with the third, I would choose wealth. Not for my personal sake... I have little interest in being wealthy. Having the resources to tell stories, bring awareness, and leave a positive impact on society would be incredible. There are plenty of geniuses I could work with to make sure the wealth has maximum impact for those who need it most. Money is essentially a tool in the same way my camera is.
 
-**The Grid:** What Game of Thrones character do you relate to most? 
+**The Grid:** What Game of Thrones character do you relate to most?
 
 **Gridster: **I'm more of an Arrested Development kind of guy. I've never actually seen a single episode of the GOT.
 
@@ -64,7 +64,7 @@ _type: MediaObject
 
 **The Grid:** What does it mean to you to be a "Gridster"
 
-**Gridster:** It means I am part of a new community, and I like the sound of meeting new people. 
+**Gridster:** It means I am part of a new community, and I like the sound of meeting new people.
 
 _Be sure to follow Seth on [Instagram][0] and [Twitter][1]. Also, be sure to check out his updates on his personal project http://fiftytwo.photos/ on **[The Grid][2]**[.][2]_
 
