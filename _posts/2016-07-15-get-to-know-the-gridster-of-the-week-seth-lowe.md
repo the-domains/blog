@@ -1,17 +1,17 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-15T21:01:28.564Z'
-dateModified: '2016-07-15T21:01:23.421Z'
-title: Get to know The Gridster of the week Seth Lowe.
-author: []
+datePublished: '2016-07-15T21:04:30.474Z'
 sourcePath: _posts/2016-07-15-get-to-know-the-gridster-of-the-week-seth-lowe.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-15T21:04:28.429Z'
+title: Get to know The Gridster of the week Seth Lowe.
 publisher: null
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: get-to-know-the-gridster-of-the-week-seth-lowe/index.html
 _type: Article
@@ -69,8 +69,9 @@ _type: Article
 
 **Gridster:** It means I am part of a new community, and I like the sound of meeting new people.
 
-_Be sure to follow Seth on [Instagram][0] and [Twitter][1]. Also, be sure to check out his updates on his personal project http://fiftytwo.photos/ on **[The Grid][2]**[.][2]_
+_Be sure to follow Seth on [Instagram][0] and [Twitter][1]. Also, be sure to check out his updates on his personal project [Photo 52][2] on **[The Grid][3]**[.][3]_
 
 [0]: https://www.instagram.com/sethlowephoto/
 [1]: https://twitter.com/sethlowephoto
-[2]: https://thegrid.io/
+[2]: http://fiftytwo.photos/index.html
+[3]: https://thegrid.io/
