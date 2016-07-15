@@ -1,17 +1,20 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: ''
-dateModified: '2016-07-15T20:59:45.593Z'
-datePublished: '2016-07-15T21:00:03.397Z'
+datePublished: '2016-07-15T21:01:28.564Z'
+dateModified: '2016-07-15T21:01:23.421Z'
 title: Get to know The Gridster of the week Seth Lowe.
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db327c4-b043-40a3-aff7-abbf82176657.jpg
 sourcePath: _posts/2016-07-15-get-to-know-the-gridster-of-the-week-seth-lowe.md
+authors: []
+publisher: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: get-to-know-the-gridster-of-the-week-seth-lowe/index.html
+_type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/187b3b6f62eff31b1664d166e8040218/croprotate.jpg?cropheight=899&cropwidth=1500&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7db327c4-b043-40a3-aff7-abbf82176657.jpg&x=0&y=0)
