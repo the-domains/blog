@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T18:05:24.470Z'
+datePublished: '2016-07-19T18:11:05.132Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
 inFeed: true
@@ -7,7 +7,7 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-19T18:05:19.576Z'
+dateModified: '2016-07-19T18:11:00.167Z'
 title: Power of Mobile.
 publisher: null
 description: ''
