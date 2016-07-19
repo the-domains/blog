@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T18:11:05.132Z'
+datePublished: '2016-07-19T19:09:27.169Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
 inFeed: true
@@ -7,7 +7,7 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-19T18:11:00.167Z'
+dateModified: '2016-07-19T19:09:16.820Z'
 title: Power of Mobile.
 publisher: null
 description: ''
@@ -40,7 +40,7 @@ The speed and ubiquity of mobile brings the true promise of the internet to life
 
 As a matter of fact how about the idea of building a website with your mobile device on your next commute? Or even better building a website while on an airplane? Up until now it was not possible. The Grid is your mobile website builder
 
-**If you are already a founding member be sure to visit [Google Play][0] and [iTunes App Store][1] to get the latest app. If your not a founding member then get on our [mailing list][2] to request access.**
+**If you are already a founding member be sure to visit [Google Play][0] and [iTunes App Store][1] to get the latest app. If you are not a founding member then get on our [mailing list][2] to request access.**
 
 [0]: https://play.google.com/store/apps/details?id=io.thegrid.app
 [1]: https://itunes.apple.com/us/app/the-grid./id990744597
