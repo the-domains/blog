@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T17:46:41.995Z'
+datePublished: '2016-07-19T18:00:31.394Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
 inFeed: true
@@ -7,8 +7,8 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-19T17:46:24.655Z'
-title: Power of Mobile
+dateModified: '2016-07-19T18:00:26.564Z'
+title: Build it on Mobile
 publisher: null
 description: ''
 inLanguage: null
@@ -18,9 +18,9 @@ url: power-of-mobile/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56d707d53a8bb0ec1f26be4aa0256804/croprotate.jpg?cropheight=1199&cropwidth=2100&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd00a677-8942-4c24-9058-c24cdaddfb53.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/981fd5b57a1242c94c32c42f380bae9e/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F453b4b9b-e3ca-4143-887b-7f7ef773fbd8.jpg&x=0&y=0)
 
-# Power of Mobile
+# Build it on Mobile
 
 ## **The Grid opens the door to harnessing the power of mobile to make a website from anywhere.**
 
