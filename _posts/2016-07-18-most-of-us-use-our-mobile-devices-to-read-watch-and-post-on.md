@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T01:00:01.608Z'
+datePublished: '2016-07-19T05:51:50.731Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
 inFeed: true
@@ -7,7 +7,7 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-19T00:59:57.294Z'
+dateModified: '2016-07-19T01:13:10.012Z'
 title: Power of Mobile
 publisher: null
 description: ''
@@ -35,3 +35,5 @@ That's the power of mobile. And without it, website software isn't ready for the
 But take this a step futher. Think about the millions upon millions of small businesses that don't even have desktop computers? With the power of mobile web creation, they can finally participate and take control of their presence on the internet.
 
 The speed and ubiquity of mobile brings the true promise of the internet to life for small businesses. Don't leave home without it.
+
+**More to come as we will be updating our Android and iOS apps.**
