@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-17T16:23:59.949Z'
+datePublished: '2016-07-19T18:09:16.967Z'
 sourcePath: _posts/2016-04-26-new-web-experience.md
 inFeed: true
 authors: []
@@ -8,14 +8,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-17T16:23:59.131Z'
+dateModified: '2016-07-19T18:09:12.239Z'
 title: Launching Mission Control
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-description: 'We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are an unconventional startup...a distributed team from all over the world, we have these team meet ups or what we call periodical “live-sprints.” The “mission” of this live-sprint was to get our overhauled web app ready for people to test.'
+publisher: null
+description: >-
+  Don’t wait for things to be perfect before you share them with others. Show
+  early and show often. It’ll be pretty when we get there, but it won’t be
+  pretty along the way. ― Ed Catmull,
 inLanguage: null
 inNav: false
 starred: false
@@ -28,8 +27,6 @@ _type: Article
 # Launching Mission Control
 
 > Don't wait for things to be perfect before you share them with others. Show early and show often. It'll be pretty when we get there, but it won't be pretty along the way. ― Ed Catmull,
-
-## New Web Experience
 
 We are at the tail end of a tremendous three-week long team meet up with our web app team here in San Francisco. Since we are [an unconventional startup][0]...a distributed team from all over the world, we have these team meet ups or what we call periodical "live-sprints." The "mission" of this live-sprint was to get our overhauled web app ready for people to test.
 
