@@ -1,18 +1,21 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: ''
-dateModified: '2016-07-18T23:57:39.726Z'
-datePublished: '2016-07-19T00:58:02.996Z'
+datePublished: '2016-07-19T00:59:11.400Z'
+dateModified: '2016-07-19T00:59:04.095Z'
 title: Power of Mobile
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd00a677-8942-4c24-9058-c24cdaddfb53.jpg
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
+authors: []
+publisher: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: power-of-mobile/index.html
+_type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56d707d53a8bb0ec1f26be4aa0256804/croprotate.jpg?cropheight=1199&cropwidth=2100&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd00a677-8942-4c24-9058-c24cdaddfb53.jpg&x=0&y=0)
