@@ -1,18 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-19T00:59:11.400Z'
-dateModified: '2016-07-19T00:59:04.095Z'
-title: Power of Mobile
-author: []
+datePublished: '2016-07-19T01:00:01.608Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-19T00:59:57.294Z'
+title: Power of Mobile
 publisher: null
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: power-of-mobile/index.html
 _type: Article
