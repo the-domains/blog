@@ -1,28 +1,19 @@
 ---
-datePublished: '2016-07-12T17:18:06.076Z'
+datePublished: '2016-07-21T20:40:58.376Z'
 sourcePath: _posts/2016-07-11-the-grid-beta-program.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-12T17:17:51.435Z'
+dateModified: '2016-07-21T20:40:57.629Z'
 title: The Grid Beta Program
-publisher: null
-description: >-
-  Thanks to the great support of our Founding Members we have come a long way at
-  The Grid. Our earlier FMs have patiently tested and given us great feedback.
-  This means our newer FMs are now getting access to an enhanced onboarding and
-  user experience. More than 30,000 websites have been created on The Grid and
-  our AI designer-in-the-cloud has done nearly half a million redesigns (more
-  about that in future blog posts.) but MUCH more is coming. Gone are the days
-  of logging in with social media, and you can now log in with your email
-  address. There are some really exciting new features for you to try out, so
-  whether you are an early FM or a more recent one, we encourage you to
-  experience The Grid before we open up to the general public in the coming
-  months.
+publisher:
+  name: 'News from The Grid :: Summer edition'
+description: ''
 inLanguage: null
 inNav: false
+via: {}
 starred: false
 url: the-grid-beta-program/index.html
 _type: Article
