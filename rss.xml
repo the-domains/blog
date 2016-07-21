@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 20:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 20:40:35 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why AI?]]></title>
@@ -54,13 +54,6 @@
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Tue, 26 Apr 2016 23:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid's Eyes]]></title>
-            <description><![CDATA[<article><h1>The Grid's Eyes</h1><p>Since last year I'm working together with Jon Nordby, Henri Bergius and Gabriela Thumé on an image analytics pipeline to The Grid. Basically, we are teaching our AI to identify patterns and extract relevant information from raw image data. We apply algorithms and techniques from the Computer Vision field.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2e457a276945952a26d875bef3633f0a5b148f9.jpg"></article>]]></description>
-            <link>http://automata.cc/saliency-extraction/</link>
-            <guid isPermaLink="false">184f70af-eeab-4f72-ad2a-e1f05e0b8a26</guid>
-            <pubDate>Fri, 01 Apr 2016 15:21:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
