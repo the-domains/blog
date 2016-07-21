@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 18:15:15 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why AI?]]></title>
+            <description><![CDATA[<article><h1>Why AI?</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b8c5128b1834c14cb0db1230cf5f774/croprotate.png?cropheight=837&cropwidth=2375&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F77abbbe7-69ac-4080-9526-cde2e42810b4.png&x=0&y=46"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/103ab6e0-b1b1-421a-ba8e-502de2f4778f.png</link>
+            <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
+            <pubDate>Thu, 21 Jul 2016 18:15:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Power of Mobile.]]></title>
             <description><![CDATA[<article><h1>Power of Mobile.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/981fd5b57a1242c94c32c42f380bae9e/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F453b4b9b-e3ca-4143-887b-7f7ef773fbd8.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=v65HLBGLG_g&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d41db27b-da3c-41e1-8b2d-1f0364129715</guid>
             <pubDate>Thu, 31 Mar 2016 21:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An update from Jon Gold who is working on The Grid's typography system: ]]></title>
-            <description><![CDATA[<article><h1>An update from Jon Gold who is working on The Grid's typography system: </h1><p> Hey! There's been a ton of chatter wanting to see what we're working on (and rightly so). </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b15719-cdc1-41c7-9cf2-f37938dfef3c.png"></article>]]></description>
-            <link>http://blog.thegrid.io/behind-the-scenes-typography/index.html</link>
-            <guid isPermaLink="false">7bd4ed0f-ec26-4e70-a2f9-3a6f47a5390b</guid>
-            <pubDate>Thu, 31 Mar 2016 18:32:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
