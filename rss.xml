@@ -4,14 +4,14 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 18:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 18:29:15 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why AI?]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/12acd8b97ca8d398e14eabd35f3f9f0a/croprotate.png?cropheight=837&cropwidth=2375&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F82a84378-5ec4-45b3-9701-db25a6790666.png&x=0&y=46">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/103ab6e0-b1b1-421a-ba8e-502de2f4778f.png</link>
+            <description><![CDATA[<article><h1>Why AI?</h1><h2>The Composer</h2><p>“Now more than ever, in a world flooded with cognitive noise, the world needs simple, intelligent, integrated ecosystems of information. The sooner designers embrace this need, the better prepared we’ll be for the future.” -Sergio Nouvel</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8895bb16654c1a341c1bb6356c707c0/croprotate.png?cropheight=837&cropwidth=2375&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1888513e-53da-46e2-9b23-1911707aff7e.png&x=0&y=46"></article>]]></description>
+            <link>http://blog.thegrid.io/why-ai/index.html</link>
             <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
-            <pubDate>Thu, 21 Jul 2016 18:22:05 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2016 18:29:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Power of Mobile.]]></title>
