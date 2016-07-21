@@ -4,21 +4,21 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 20:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 20:42:32 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why AI?]]></title>
+            <description><![CDATA[<article><h1>Why AI?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c9046a8-daa1-422b-a577-2a53b6d0d8a2.png"></article>]]></description>
+            <link>http://blog.thegrid.io/why-ai/index.html</link>
+            <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
+            <pubDate>Thu, 21 Jul 2016 20:41:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid Beta Program]]></title>
             <description><![CDATA[<article><h1>The Grid Beta Program</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58347904-a501-403a-b1dc-a0945ab356b8.gif"></article>]]></description>
             <link>http://blog.thegrid.io/the-grid-beta-program/index.html</link>
             <guid isPermaLink="false">418d73f9-c7d4-4b90-ad37-2d675d4cd302</guid>
             <pubDate>Thu, 21 Jul 2016 20:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why AI?]]></title>
-            <description><![CDATA[<article><h1>Why AI?</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9323107d005d16d86cff4d750f1c2eee/croprotate.png?cropheight=1941&cropwidth=5508&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc3a0bb1c28dcb1ef44c9653996d5896bde5ab1e1.png&x=0&y=0"></article>]]></description>
-            <link>http://blog.thegrid.io/why-ai/index.html</link>
-            <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
-            <pubDate>Thu, 21 Jul 2016 20:38:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Power of Mobile.]]></title>
