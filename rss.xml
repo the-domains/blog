@@ -4,21 +4,21 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 16:00:46 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why AI?]]></title>
+            <description><![CDATA[<article><h1>Why AI?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa6dc28-3bae-47df-9028-e555212cb3c5.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/why-ai/index.html</link>
+            <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
+            <pubDate>Fri, 22 Jul 2016 16:00:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
             <description><![CDATA[<article><h1>I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.</h1><p>Brian Axe - Co-Founder / Chairman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/add78c2bda337b969f3cbf3e311d659f1fe6b678.jpg"></article>]]></description>
             <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
             <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
             <pubDate>Fri, 22 Jul 2016 15:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why AI?]]></title>
-            <description><![CDATA[<article><h1>Why AI?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa6dc28-3bae-47df-9028-e555212cb3c5.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/why-ai/index.html</link>
-            <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
-            <pubDate>Fri, 22 Jul 2016 15:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Beta Program]]></title>
