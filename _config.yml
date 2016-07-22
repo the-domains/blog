@@ -32,7 +32,7 @@ color:
     - '#354864'
     - '#6e7989'
   brandStrength: 0
-  lightness: 1
-  saturation: 0
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
