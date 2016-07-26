@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T19:12:57.955Z'
+datePublished: '2016-07-26T19:17:09.924Z'
 sourcePath: >-
   _posts/2016-07-26-get-to-know-the-gridster-of-the-week-jeff-goins-founder-of-t.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-26T19:12:57.182Z'
+dateModified: '2016-07-26T19:17:09.103Z'
 title: Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.
 publisher:
   name: 'Tuesday, July 26, 2016'
@@ -30,6 +30,8 @@ This weeks Gridster is Jeff Goins. He is the author of four books including the 
 
 > _Jeff Goins has become one of my favorite bloggers._  
 > **---Michael Hyatt**// Chairman, Thomas Nelson
+
+## A conversation with Jeff Goins.
 
 **The Grid: **What inspired you to start Tribe Conference?
 
@@ -69,7 +71,7 @@ This weeks Gridster is Jeff Goins. He is the author of four books including the 
 
 **Jeff Goins:**_Do something!_
 
-We would like to thank Jeff for having fun with us today. If you just can not get enough of Jeff consider being a part of [Tribe Conference][1] there are a few seats left.
+_DO SOMETHING_..What a great way to end this weeks Q&A! We would like to thank Jeff for having fun with us today. If you just can not get enough of Jeff consider being a part of [Tribe Conference][1] there are a few seats left.
 
 You can also follow Jeff on [Twitter.][2]
 
