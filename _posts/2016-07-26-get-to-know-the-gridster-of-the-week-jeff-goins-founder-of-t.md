@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T19:12:15.504Z'
+datePublished: '2016-07-26T19:12:57.955Z'
 sourcePath: >-
   _posts/2016-07-26-get-to-know-the-gridster-of-the-week-jeff-goins-founder-of-t.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-26T19:12:14.425Z'
+dateModified: '2016-07-26T19:12:57.182Z'
 title: Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.
 publisher:
   name: 'Tuesday, July 26, 2016'
@@ -28,8 +28,8 @@ _type: Article
 
 This weeks Gridster is Jeff Goins. He is the author of four books including the national best seller,_[The Art of Work][0]_. He wants to equip writers get the attention their work deserves.
 
-_Jeff Goins has become one of my favorite bloggers._  
-**---Michael Hyatt**// Chairman, Thomas Nelson
+> _Jeff Goins has become one of my favorite bloggers._  
+> **---Michael Hyatt**// Chairman, Thomas Nelson
 
 **The Grid: **What inspired you to start Tribe Conference?
 
