@@ -1,21 +1,26 @@
 ---
-datePublished: '2016-07-26T19:04:11.883Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad003142-072b-4118-acee-b5d52b23513a.png
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'Tuesday, July 26, 2016'
+datePublished: '2016-07-26T19:05:50.664Z'
+dateModified: '2016-07-26T19:05:44.066Z'
 author: []
 via: {}
-dateModified: '2016-07-26T19:04:08.284Z'
 title: Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.
-publisher:
-  name: Jeff Woods
-description: 'Tuesday, July 26, 2016'
-starred: false
 sourcePath: >-
   _posts/2016-07-26-get-to-know-the-gridster-of-the-week-jeff-goins-founder-of-t.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: Jeff Woods
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: get-to-know-the-gridster-of-the-week-jeff-goins-founder-of-t/index.html
+_type: Article
 
 ---
 # Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.
