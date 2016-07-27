@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T19:18:46.027Z'
+datePublished: '2016-07-27T05:23:56.122Z'
 sourcePath: >-
   _posts/2016-07-26-get-to-know-the-gridster-of-the-week-jeff-goins-founder-of-t.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-26T19:18:45.457Z'
+dateModified: '2016-07-27T05:23:55.570Z'
 title: Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.
 publisher:
   name: 'Tuesday, July 26, 2016'
@@ -54,6 +54,8 @@ This weeks Gridster is Jeff Goins. He is the author of four books including the 
 **Jeff Goins: **My dog Lyric and my favorite travel companion Dustin.
 
 **The Grid:** Which one are you best at: Ideas, people, intuition/gut, or details?
+
+**Jeff Goins:** Ideas
 
 **The Grid:** If you could travel anywhere in the world, where would you go and why?
 
