@@ -1,4 +1,31 @@
+name: The Grid Blog
+favicon: null
+layout_spectrum: 0.49273
 typography_spectrum: 0.82679
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/21cc45ca-8033-4a46-950d-6bbd349e93c1.png
+style: the-composer
+navigation:
+  - url: 'https://thegrid.io/'
+    name: Home
+  - url: 'https://support.thegrid.io/'
+    name: Support
+  - url: 'http://status.thegrid.io/'
+    name: Status
+title: The Grid Blog
+description: AI Websites
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-50607580-7
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#0eccd8'
@@ -10,31 +37,4 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.87382
-analytics:
-  google: UA-50607580-7
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/21cc45ca-8033-4a46-950d-6bbd349e93c1.png
-name: The Grid Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-style: the-composer
-navigation:
-  - url: 'https://thegrid.io/'
-    name: Home
-  - url: 'https://support.thegrid.io/'
-    name: Support
-  - url: 'http://status.thegrid.io/'
-    name: Status
-favicon: null
-title: The Grid Blog
-description: AI Websites
 purpose: []
