@@ -1,21 +1,20 @@
 ---
-description: ''
-dateModified: '2016-08-05T20:14:35.898Z'
-datePublished: '2016-08-05T20:14:48.414Z'
+datePublished: '2016-08-05T20:18:33.515Z'
+sourcePath: >-
+  _posts/2016-08-05-if-your-business-is-not-on-the-internet-then-your-business.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-05T20:18:32.953Z'
 title: >-
   "If your business is not on the internet, then your business will be out of
   business." - Bill Gates
-author: []
 publisher:
   name: 'August 5th, 2016'
-via: {}
+description: ''
 starred: false
-sourcePath: >-
-  _posts/2016-08-05-if-your-business-is-not-on-the-internet-then-your-business.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: if-your-business-is-not-on-the-internet-then-your-business/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/576e80de-753e-49c7-9537-9186f03ed7d8.jpg)
@@ -56,7 +55,7 @@ Websites are not social. Imagine Facebook without a news feed. That's what websi
 
 > AI website design conceptually feels very next level, an obvious, natural progression just waiting to happen." - Jason Fried, Founder of 37Signals
 
-__\*Sources for this article:
+\*Sources for this article:
 
 [Inc Magazine][2]
 
