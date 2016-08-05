@@ -1,25 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-05T20:20:35.609Z'
-dateModified: '2016-08-05T20:20:29.652Z'
+datePublished: '2016-08-05T20:23:13.470Z'
 sourcePath: >-
   _posts/2016-08-05-if-your-business-is-not-on-the-internet-then-your-business.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-05T20:23:12.854Z'
 title: >-
   "If your business is not on the internet, then your business will be out of
   business." - Bill Gates
-authors: []
 publisher:
   name: 'August 5th, 2016'
   domain: null
   url: null
   favicon: null
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: if-your-business-is-not-on-the-internet-then-your-business/index.html
 _type: Article
@@ -43,13 +43,13 @@ Yet, a recent article from the [Social Media Examiner][1] reveals that 44% of sm
 
 ## **Problem 1: Getting a website is too diﬃcult & time consuming**
 
-**There's no solution as simple as a social network to get a website online. In comparison, getting a "good enough" website is too diﬃcult, time consuming & expensive --- so, most go without.**
+There's no solution as simple as a social network to get a website online. In comparison, getting a "good enough" website is too diﬃcult, time consuming & expensive --- so, most go without.
 
-**The numbers speak for themselves:**
+_**The numbers speak for themselves**:_
 
-* **88% of U.S. SMEs would choose a website over social media to represent them**
-* **Over 50% of U.S. & Global SMEs do not have a website**
-* **45% of those without a site say creating site is to expensive.**
+* 88% of U.S. SMEs would choose a website over social media to represent them
+* Over 50% of U.S. & Global SMEs do not have a website
+* 45% of those without a site say creating site is to expensive.
 
 ## **Problem 2: Designing a website for mobile is necessary --- but also perceived as complicated.**
 
@@ -61,7 +61,7 @@ Plus, now that search engines are shifting to create a more mobile-friendly expe
 
 Websites are not social. Imagine Facebook without a news feed. That's what websites are like today, which makes it diﬃcult to create lasting connections with one's audience. As a result, websites become inactive and invisible.
 
-> AI website design conceptually feels very next level, an obvious, natural progression just waiting to happen." - Jason Fried, Founder of 37Signals
+> _**AI website design conceptually feels very next level, an obvious, natural progression just waiting to happen." - Jason Fried, Founder of 37Signals**_
 
 \*Sources for this article:
 
