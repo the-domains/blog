@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-20T10:22:00.987Z'
+sourcePath: _posts/2016-08-20-the-new-android-app.md
+author: []
+via: {}
+dateModified: '2016-08-20T10:22:00.417Z'
+title: The New Android App
+publisher: {}
 description: >-
   If you have checked the Play Store recently, you might have noticed that our
   new Android app is making its way to devices around the world. After getting a
@@ -6,14 +13,7 @@ description: >-
   board and came up with version 2.0, sporting a fresh and friendly look, a
   notification center and an all new and much simplified way for you to help our
   AI to redesign your website.
-dateModified: '2016-08-20T10:15:48.053Z'
-datePublished: '2016-08-20T10:15:56.165Z'
-title: The New Android App
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-20-the-new-android-app.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -28,17 +28,17 @@ _type: MediaObject
 **For the new app we adopted Google's Material Design guidelines and went with a light theme that is easier on the eyes when using the app in bright sunlight. Colors adapt to your content using Chromatose, our set of snazzy color algorithms. With bigger cards and a simplified structure for your posts, finding that draft you wrote a while back is easier than ever.**
 
 # **Seeing what's going on**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf721c8-376d-4c68-b3ea-2dfc0378368a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b66336c6-f65f-48a1-90e8-c4ce9e152c35.png)
 
 **While we're constantly working on making things faster, designing a website requires careful consideration and a little bit of thinking time from our AI. With the new notification center you can always see what's going on, and you'll be notified when your new site is ready.**
 
 # **Redesigning your website**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c222e78d-e1ee-4b9c-80be-d48fb0a5c1cf.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca14d59-97c0-4a1e-854e-a5cc30cf43da.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da1eee7c-3e10-4eef-a540-90ba9e30579a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd2ea51e-bda5-4e4d-bd0c-336753543808.png)
 
 **Finding the right design for your website should be as easy as telling a designer what you want, so that's exactly what we've built: Answer a handful of questions about your preferences, then pick the design that suits you most from the personalized options that the AI suggests. Easy as pie!**
 
-# **And we're not done yet**
+# **And we are not done yet!**
 
 **There are a bunch of new tools and features on our roadmap that we're excited to implement. **
 
