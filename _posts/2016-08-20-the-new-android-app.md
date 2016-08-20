@@ -1,34 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: >-
-  If you have checked the Play Store recently, you might have noticed that our
-  new Android app is making its way to devices around the world. After getting a
-  ton of helpful feedback from our founding members, we went back to the drawing
-  board and came up with version 2.0, sporting a fresh and friendly look, a
-  notification center and an all new and much simplified way for you to help our
-  AI to redesign your website.
-datePublished: '2016-08-20T10:25:15.257Z'
-dateModified: '2016-08-20T10:25:02.192Z'
+datePublished: '2016-08-20T10:33:56.040Z'
 sourcePath: _posts/2016-08-20-the-new-android-app.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-20T10:33:55.520Z'
 title: The New Android App
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: 'Author: Hannes Struss Android lead engineer'
+inLanguage: null
+inNav: false
 starred: false
 url: the-new-android-app/index.html
 _type: Article
 
 ---
 # **The New Android App**
+
+Author: Hannes Struss _Android lead engineer_
 
 **If you have checked the Play Store recently, you might have noticed that our new Android app is making its way to devices around the world. After getting a ton of helpful feedback from our founding members, we went back to the drawing board and came up with version 2.0, sporting a fresh and friendly look, a notification center and an all new and much simplified way for you to help our AI to redesign your website.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4fec607-d4b5-4281-8d80-c94abe0161cb.png)
@@ -48,14 +40,4 @@ _type: Article
 
 # **And we are not done yet!**
 
-**There are a bunch of new tools and features on our roadmap that we're excited to implement.**
-
-* **Light theme**
-* **New design**
-* **Notifications overview**
-* **Navigation (coming soon)**
-* **Config (Analytics etc)**
-* **New post editor**
-* **Redesign flow**
-
-**Over the next weeks and months we'll be refining the experience in our Android app. Things work best with feedback, and we'd be thrilled to hear from you!**
+**There are a bunch of new tools and features on our roadmap that we're excited to implement. Over the next weeks and months we'll be refining the experience in our Android app. Things work best with feedback, and we'd be thrilled to hear from you!**
