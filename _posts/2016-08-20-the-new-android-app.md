@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-20T10:22:00.987Z'
+datePublished: '2016-08-20T10:23:47.642Z'
 sourcePath: _posts/2016-08-20-the-new-android-app.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T10:22:00.417Z'
+dateModified: '2016-08-20T10:23:46.678Z'
 title: The New Android App
 publisher: {}
 description: >-
@@ -14,10 +15,8 @@ description: >-
   notification center and an all new and much simplified way for you to help our
   AI to redesign your website.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: the-new-android-app/index.html
+_type: Blurb
 
 ---
 # **The New Android App**
@@ -40,7 +39,7 @@ _type: MediaObject
 
 # **And we are not done yet!**
 
-**There are a bunch of new tools and features on our roadmap that we're excited to implement. **
+**There are a bunch of new tools and features on our roadmap that we're excited to implement.**
 
 * **Light theme**
 * **New design**
