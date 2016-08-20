@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:33:56.040Z'
+datePublished: '2016-08-20T10:36:25.170Z'
 sourcePath: _posts/2016-08-20-the-new-android-app.md
 inFeed: true
 authors: []
@@ -7,10 +7,11 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T10:33:55.520Z'
+dateModified: '2016-08-20T10:36:24.360Z'
 title: The New Android App
-publisher: {}
-description: 'Author: Hannes Struss Android lead engineer'
+publisher:
+  name: Hannes Struss Android Lead Engineer
+description: 'Author: Hannes Struss Android Lead Engineer'
 inLanguage: null
 inNav: false
 starred: false
@@ -20,7 +21,7 @@ _type: Article
 ---
 # **The New Android App**
 
-Author: Hannes Struss _Android lead engineer_
+Author: Hannes Struss _Android Lead Engineer_
 
 **If you have checked the Play Store recently, you might have noticed that our new Android app is making its way to devices around the world. After getting a ton of helpful feedback from our founding members, we went back to the drawing board and came up with version 2.0, sporting a fresh and friendly look, a notification center and an all new and much simplified way for you to help our AI to redesign your website.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4fec607-d4b5-4281-8d80-c94abe0161cb.png)
