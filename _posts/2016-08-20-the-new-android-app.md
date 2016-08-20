@@ -1,12 +1,9 @@
 ---
-datePublished: '2016-08-20T10:23:47.642Z'
-sourcePath: _posts/2016-08-20-the-new-android-app.md
+inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-20T10:23:46.678Z'
-title: The New Android App
-publisher: {}
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   If you have checked the Play Store recently, you might have noticed that our
   new Android app is making its way to devices around the world. After getting a
@@ -14,9 +11,21 @@ description: >-
   board and came up with version 2.0, sporting a fresh and friendly look, a
   notification center and an all new and much simplified way for you to help our
   AI to redesign your website.
+datePublished: '2016-08-20T10:25:15.257Z'
+dateModified: '2016-08-20T10:25:02.192Z'
+sourcePath: _posts/2016-08-20-the-new-android-app.md
+author: []
+via: {}
+title: The New Android App
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: the-new-android-app/index.html
-_type: Blurb
+_type: Article
 
 ---
 # **The New Android App**
