@@ -4,77 +4,78 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 10:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2016 17:53:13 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 18 Nov 2016 17:53:02 GMT</pubDate>
         <item>
-            <title><![CDATA[The New Android App]]></title>
-            <description><![CDATA[<article><h1>The New Android App</h1><p>If you have checked the Play Store recently, you might have noticed that our new Android app is making its way to devices around the world. After getting a ton of helpful feedback from our founding members, we went back to the drawing board and came up with version 2.0, sporting a fresh and friendly look, a notification center and an all new and much simplified way for you to help our AI to redesign your website.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4fec607-d4b5-4281-8d80-c94abe0161cb.png"></article>]]></description>
-            <link>http://blog.thegrid.io/the-new-android-app/index.html</link>
-            <guid isPermaLink="false">7dbc84ed-3439-49cd-a7fe-b577dbff178a</guid>
-            <pubDate>Sun, 21 Aug 2016 10:29:57 GMT</pubDate>
+            <title><![CDATA[Collaboration: Website editing, together]]></title>
+            <description><![CDATA[<article><h1>Collaboration: Website editing, together</h1><p>Great things are rarely made in isolation. Only when we team up with others we can truly make our work shine. In the past, websites on the Grid could only be managed by one person – until today: We’re excited to announce Collaboration, making it possible to open your website content to as many contributors as you like.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/649db307-7837-466b-838b-3344e94010d0.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/collaboration-website-editing-together/index.html</link>
+            <guid isPermaLink="false">8a01084c-9806-4320-94f7-a053c5da2a3f</guid>
+            <pubDate>Fri, 18 Nov 2016 17:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redesigns: Learning with You]]></title>
+            <description><![CDATA[<article><h1>Redesigns: Learning with You</h1><p>One important part of working with a web designer — whether AI or human — is to be able to try different designs of your site and be able to give feedback on them. With The Grid, this works by giving your friendly AI designer Molly some guidance through reviewing the designs you’ve received and rating various aspects of them.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d30a7eb-83b2-4947-afb1-42e547ab7691.png"></article>]]></description>
+            <link>http://blog.thegrid.io/redesigns-learning-with-you/index.html</link>
+            <guid isPermaLink="false">4a53c288-f359-4325-880e-98bf81c702cc</guid>
+            <pubDate>Sat, 08 Oct 2016 01:21:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Importance of Multi-Sites]]></title>
+            <description><![CDATA[<article><h1>Importance of Multi-Sites</h1><h2>More To Love: One Site Just Isn’t Enough</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a0f44d-3c25-4504-86b9-e8bc6f4a7bc4.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/importance-of-multi-sites/index.html</link>
+            <guid isPermaLink="false">9c6e17a5-a1ad-4485-920c-4bcd35ddc9c4</guid>
+            <pubDate>Thu, 06 Oct 2016 19:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wizard of Gridsites: Molly your new AI BFF]]></title>
+            <description><![CDATA[<article><h1>The Wizard of Gridsites: Molly your new AI BFF</h1><p>"Why can’t I see my site before I publish it?" is a common question our Members ask.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/114dd154-9bf3-4bce-9458-21cf90f634e9.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/the-wizard-of-gridsites-molly-your-new-ai-bff/index.html</link>
+            <guid isPermaLink="false">a2a96502-7183-40ae-a689-81d37ea27fc8</guid>
+            <pubDate>Fri, 30 Sep 2016 04:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grab Your Visitors Where It Counts: CTAs FTW]]></title>
+            <description><![CDATA[<article><h1>Grab Your Visitors Where It Counts: CTAs FTW</h1><p>Your site on The Grid should have a purpose and an impact on your audience. Be it to entice your visitors to watch a video, stay in touch with you by signing up for updates, or buy your wares, we think the best way to do this is by using Calls-to-Action.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9218b36-77f9-48b5-ab51-c81c092d9f3c.gif"></article>]]></description>
+            <link>http://blog.thegrid.io/grab-your-visitors-where-it-counts-ctas-ftw/index.html</link>
+            <guid isPermaLink="false">8e891557-161f-4a32-b096-2121671f7970</guid>
+            <pubDate>Wed, 28 Sep 2016 02:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Power of Mobile.]]></title>
+            <description><![CDATA[<article><h1>Power of Mobile.</h1><h2>The Grid opens the door to harnessing the power of mobile to make a website from anywhere.</h2><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/981fd5b57a1242c94c32c42f380bae9e/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F453b4b9b-e3ca-4143-887b-7f7ef773fbd8.jpg&x=0&y=0"></article>]]></description>
+            <link>http://blog.thegrid.io/power-of-mobile/index.html</link>
+            <guid isPermaLink="false">06c7ba1e-5e6c-450e-9027-efd526f643c3</guid>
+            <pubDate>Tue, 27 Sep 2016 19:34:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["If your business is not on the internet, then your business will be out of business." - Bill Gates]]></title>
             <description><![CDATA[<article><h1>"If your business is not on the internet, then your business will be out of business." - Bill Gates</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/576e80de-753e-49c7-9537-9186f03ed7d8.jpg"></article>]]></description>
             <link>http://blog.thegrid.io/if-your-business-is-not-on-the-internet-then-your-business/index.html</link>
             <guid isPermaLink="false">45efd70e-051a-4c90-bbd0-e46e8fa8373d</guid>
-            <pubDate>Fri, 05 Aug 2016 20:23:45 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2016 15:28:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.]]></title>
-            <description><![CDATA[<article><h1>Get to know The Gridster of the week Jeff Goins founder of Tribe Conference.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad003142-072b-4118-acee-b5d52b23513a.png"></article>]]></description>
-            <link>http://blog.thegrid.io/get-to-know-the-gridster-of-the-week-jeff-goins-founder-of-t/index.html</link>
-            <guid isPermaLink="false">02bd845c-1a54-462f-be4a-df6eab9c412f</guid>
-            <pubDate>Wed, 27 Jul 2016 05:23:56 GMT</pubDate>
+            <title><![CDATA[When a magician wants a website.]]></title>
+            <description><![CDATA[<article><h1>When a magician wants a website.</h1><p>When a magician wants a website, she’ll have to create some content. So she’ll shoot some photos and videos, gather testimonials and write a little about herself and her act. To turn that content into a website, she will have to make a choice: A) Give her content (and pile of cash) to a web designer she trusts to create something custom, or B) Hire a template website so she can quickly and cheaply fill its buckets with her photos and text, then customize the generic design herself.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92ba3bd3-e8c8-48dd-9865-855d6be3d85d.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/when-a-magician-wants-a-website/index.html</link>
+            <guid isPermaLink="false">21673aaf-2ff3-44b3-8892-324c0f71c53c</guid>
+            <pubDate>Thu, 06 Oct 2016 21:35:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why AI?]]></title>
-            <description><![CDATA[<article><h1>Why AI?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa6dc28-3bae-47df-9028-e555212cb3c5.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/why-ai/index.html</link>
-            <guid isPermaLink="false">d9ac1169-180f-4d35-a036-cc31fd9f36be</guid>
-            <pubDate>Fri, 22 Jul 2016 16:02:55 GMT</pubDate>
+            <title><![CDATA[The New Android App]]></title>
+            <description><![CDATA[<article><h1>The New Android App</h1><p>If you have checked the Play Store recently, you might have noticed that our new Android app is making its way to devices around the world. After getting a ton of helpful feedback from our founding members, we went back to the drawing board and came up with version 2.0, sporting a fresh and friendly look, a notification center and an all new and much simplified way for you to help our AI to redesign your website.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce319143-a953-4894-9afb-089d6249e022.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/the-new-android-app/index.html</link>
+            <guid isPermaLink="false">7dbc84ed-3439-49cd-a7fe-b577dbff178a</guid>
+            <pubDate>Tue, 27 Sep 2016 19:36:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.]]></title>
-            <description><![CDATA[<article><h1>I’m in Hawaii right now, but I’m not here with family nor am I on a company boondoggle, well not really… but sort of… allow me to explain.</h1><p>Brian Axe - Co-Founder / Chairman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/add78c2bda337b969f3cbf3e311d659f1fe6b678.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/an-unconventional-startup/index.html</link>
-            <guid isPermaLink="false">d6622f82-2cdd-4a9f-82dc-9bf94e9a1ee4</guid>
-            <pubDate>Fri, 22 Jul 2016 15:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid Beta Program]]></title>
-            <description><![CDATA[<article><h1>The Grid Beta Program</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58347904-a501-403a-b1dc-a0945ab356b8.gif"></article>]]></description>
-            <link>http://blog.thegrid.io/the-grid-beta-program/index.html</link>
-            <guid isPermaLink="false">418d73f9-c7d4-4b90-ad37-2d675d4cd302</guid>
-            <pubDate>Thu, 21 Jul 2016 20:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power of Mobile.]]></title>
-            <description><![CDATA[<article><h1>Power of Mobile.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/981fd5b57a1242c94c32c42f380bae9e/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F453b4b9b-e3ca-4143-887b-7f7ef773fbd8.jpg&x=0&y=0"></article>]]></description>
-            <link>http://blog.thegrid.io/power-of-mobile/index.html</link>
-            <guid isPermaLink="false">06c7ba1e-5e6c-450e-9027-efd526f643c3</guid>
-            <pubDate>Tue, 19 Jul 2016 19:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Launching Mission Control]]></title>
-            <description><![CDATA[<article><h1>Launching Mission Control</h1><p>Don’t wait for things to be perfect before you share them with others. Show early and show often. It’ll be pretty when we get there, but it won’t be pretty along the way. ― Ed Catmull,</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb0b982-d381-4d31-86c9-65d7b5dfc5df.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/launching-mission-control/index.html</link>
-            <guid isPermaLink="false">974cc481-c858-46e3-807f-e149ac7ce61d</guid>
-            <pubDate>Tue, 19 Jul 2016 18:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get to know The Gridster of the week Seth Lowe.]]></title>
-            <description><![CDATA[<article><h1>Get to know The Gridster of the week Seth Lowe.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/187b3b6f62eff31b1664d166e8040218/croprotate.jpg?cropheight=899&cropwidth=1500&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7db327c4-b043-40a3-aff7-abbf82176657.jpg&x=0&y=0"></article>]]></description>
-            <link>http://blog.thegrid.io/get-to-know-the-gridster-of-the-week-seth-lowe/index.html</link>
-            <guid isPermaLink="false">a13b8d7d-6ca2-4071-acad-584ae05b93ba</guid>
-            <pubDate>Fri, 15 Jul 2016 21:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Small Business Owner’s Down-and-Dirty Guide to “Platishing”]]></title>
-            <description><![CDATA[<article><h1>A Small Business Owner’s Down-and-Dirty Guide to “Platishing”</h1><p>First off what is Platishing or a Platisher? The phrase was coined by Jonathan Glick when he wrote an article called Rise of the Platishers. In his words it’s something in between a publisher and a platform — something that weaves together the strengths of both. So why is this happening now and why is it important.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd82aa83ffeb8d67ce6bbf162a156302e4fbc53d.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/content-is-the-present-and-future-of-marketing/index.html</link>
-            <guid isPermaLink="false">533615b8-1b5b-4ace-8049-62eaca8d4280</guid>
-            <pubDate>Mon, 11 Jul 2016 15:36:29 GMT</pubDate>
+            <title><![CDATA[Introducing The Grid for Everyone]]></title>
+            <description><![CDATA[<article><h1>Introducing The Grid for Everyone</h1><p>“The future is not a destination - it is a direction.”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa134022-7cb6-40e3-ada8-2dfd2bf89f91.gif"></article>]]></description>
+            <link>http://blog.thegrid.io/introducing-the-grid-for-everyone/index.html</link>
+            <guid isPermaLink="false">911569a9-e0e9-405b-a502-901402c3d17b</guid>
+            <pubDate>Fri, 30 Sep 2016 04:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
