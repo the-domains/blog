@@ -1,10 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=v65HLBGLG_g&feature=youtu.be'
 inLanguage: en
-starred: false
 keywords:
   - duration
   - artificial
@@ -16,9 +14,13 @@ keywords:
   - musk
   - elon
   - bbc
-description: 'Henri Bergius, VP engineering at The Grid, an AI that builds your website based on its content, hacker and occasional adventurer, is the creator of Create.js and NoFlo. In this second talk of the session Artificial Intelligence, Technology without Alternative?'
-datePublished: '2016-03-31T21:10:52.927Z'
-dateModified: '2016-03-31T21:10:46.777Z'
+description: >-
+  Henri Bergius, VP engineering at The Grid, an AI that builds your website
+  based on its content, hacker and occasional adventurer, is the creator of
+  Create.js and NoFlo. In this second talk of the session Artificial
+  Intelligence, Technology without Alternative?
+datePublished: '2016-11-23T16:53:25.737Z'
+dateModified: '2016-09-15T15:28:35.637Z'
 author:
   - name: liftconference
     url: 'https://www.youtube.com/user/liftconference'
@@ -62,14 +64,16 @@ app_links:
     namespace: google
     type: ios
 title: Henri Bergius - Websites Designed by Artificial Intelligence
-sourcePath: _posts/2016-03-31-henri-bergius-websites-designed-by-artificial-intelligence.md
-published: true
+sourcePath: >-
+  _posts/2016-03-31-henri-bergius-websites-designed-by-artificial-intelligence.md
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+via: {}
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
