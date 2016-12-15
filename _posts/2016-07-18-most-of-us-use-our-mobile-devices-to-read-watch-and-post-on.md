@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T19:09:27.169Z'
+datePublished: '2016-12-15T03:54:31.302Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
 inFeed: true
@@ -7,13 +7,15 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-19T19:09:16.820Z'
+via: {}
+dateModified: '2016-12-15T03:54:30.510Z'
 title: Power of Mobile.
-publisher: null
+publisher:
+  name: Jeff Woods
 description: ''
 inLanguage: null
-inNav: false
 starred: false
+datePublishedOriginal: '2016-09-27T19:34:51.526Z'
 url: power-of-mobile/index.html
 _type: Article
 
@@ -22,7 +24,7 @@ _type: Article
 
 # Power of Mobile.
 
-# **The Grid opens the door to harnessing the power of mobile to make a website from anywhere.**
+### The Grid opens the door to harnessing the power of mobile to make a website from anywhere**.**
 
 Most of us use our mobile devices to read, watch and post on the web and social media. Yet, when it comes to creating and updating our own websites, we have to use a desktop browser. In fact, almost everything related to the web today is driven from mobile devices _**except**_ for creating or updating websites.
 
