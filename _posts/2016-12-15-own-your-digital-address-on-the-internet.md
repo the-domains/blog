@@ -8,16 +8,16 @@ description: >-
   to call them. Your site is your domain - you own it: the content, branding,
   look-and-feel even down to who can see it. In the walled garden you rent space
   and look like all the other renters who live at the same address. In the wild,
-  the address of your site is known as "your domain." 
-dateModified: '2016-12-15T02:51:17.454Z'
-datePublished: '2016-12-15T02:51:17.957Z'
+  the address of your site is known as "your domain."
+dateModified: '2016-12-15T02:55:13.476Z'
+datePublished: '2016-12-15T02:55:14.044Z'
 title: Own your digital address on the internet.
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2016-12-15-own-your-digital-address-on-the-internet.md
 starred: false
 datePublishedOriginal: '2016-12-15T02:51:17.957Z'
-sourcePath: _posts/2016-12-15-own-your-digital-address-on-the-internet.md
 _type: Blurb
 
 ---
