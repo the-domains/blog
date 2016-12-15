@@ -4,9 +4,16 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Dec 2016 02:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2016 03:46:16 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Nov 2016 16:53:26 GMT</pubDate>
+        <pubDate>Thu, 15 Dec 2016 03:46:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[Own your digital address on the internet.]]></title>
+            <description><![CDATA[<article><h1>Own your digital address on the internet.</h1><p>There are two worlds on the internet: walled-gardens and the free internet. The world of walled gardens is uniform and follows a prescribed order, highly controlled and predictable….you get the picture. In the wild, outside of the walled-gardens, we get to make choices of how our sites look and what we get to call them. Your site is your domain - you own it: the content, branding, look-and-feel even down to who can see it. In the walled garden you rent space and look like all the other renters who live at the same address. In the wild, the address of your site is known as "your domain."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a55f6316-f6e9-4d05-824b-8381025c98f3.gif"></article>]]></description>
+            <link>http://blog.thegrid.io/own-your-digital-address-on-the-internet/index.html</link>
+            <guid isPermaLink="false">67c87761-6f86-4079-84b4-3973e9587d2f</guid>
+            <pubDate>Thu, 15 Dec 2016 03:46:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
             <description><![CDATA[<article><h1>Henri Bergius - Websites Designed by Artificial Intelligence</h1><p>Henri Bergius, VP engineering at The Grid, an AI that builds your website based on its content, hacker and occasional adventurer, is the creator of Create.js and NoFlo. In this second talk of the session Artificial Intelligence, Technology without Alternative?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99eb453d2f4ca09fcb950dfb60717449/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fv65HLBGLG_g%2Fmaxresdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.thegrid.io/if-your-business-is-not-on-the-internet-then-your-business/index.html</link>
             <guid isPermaLink="false">45efd70e-051a-4c90-bbd0-e46e8fa8373d</guid>
             <pubDate>Thu, 15 Sep 2016 15:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When a magician wants a website.]]></title>
-            <description><![CDATA[<article><h1>When a magician wants a website.</h1><p>When a magician wants a website, she’ll have to create some content. So she’ll shoot some photos and videos, gather testimonials and write a little about herself and her act. To turn that content into a website, she will have to make a choice: A) Give her content (and pile of cash) to a web designer she trusts to create something custom, or B) Hire a template website so she can quickly and cheaply fill its buckets with her photos and text, then customize the generic design herself.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92ba3bd3-e8c8-48dd-9865-855d6be3d85d.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/when-a-magician-wants-a-website/index.html</link>
-            <guid isPermaLink="false">21673aaf-2ff3-44b3-8892-324c0f71c53c</guid>
-            <pubDate>Thu, 06 Oct 2016 21:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
