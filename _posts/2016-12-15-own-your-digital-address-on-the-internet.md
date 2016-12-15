@@ -9,8 +9,8 @@ description: >-
   look-and-feel even down to who can see it. In the walled garden you rent space
   and look like all the other renters who live at the same address. In the wild,
   the address of your site is known as "your domain."
-dateModified: '2016-12-15T02:55:13.476Z'
-datePublished: '2016-12-15T02:55:14.044Z'
+dateModified: '2016-12-15T02:58:03.155Z'
+datePublished: '2016-12-15T02:58:03.853Z'
 title: Own your digital address on the internet.
 author: []
 publisher: {}
