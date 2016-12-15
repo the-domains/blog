@@ -4,9 +4,16 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Nov 2016 17:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2016 02:52:26 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Nov 2016 17:53:05 GMT</pubDate>
+        <pubDate>Wed, 23 Nov 2016 16:53:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>Henri Bergius - Websites Designed by Artificial Intelligence</h1><p>Henri Bergius, VP engineering at The Grid, an AI that builds your website based on its content, hacker and occasional adventurer, is the creator of Create.js and NoFlo. In this second talk of the session Artificial Intelligence, Technology without Alternative?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99eb453d2f4ca09fcb950dfb60717449/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fv65HLBGLG_g%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=v65HLBGLG_g&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d41db27b-da3c-41e1-8b2d-1f0364129715</guid>
+            <pubDate>Wed, 23 Nov 2016 16:53:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Five Minute Website on The Grid]]></title>
             <description><![CDATA[<article><h1>The Five Minute Website on The Grid</h1><p>This quick webinar will guide you through the process of how to build and redesign your website using The Grid platform, which harnesses A.I.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/57c88d1606ea30c6b0ef44eb2328e7bf/croprotate.jpg?cropheight=720&cropwidth=1278&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FiNpzlQxkiOo%2Fmaxresdefault.jpg&x=2&y=0"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.thegrid.io/when-a-magician-wants-a-website/index.html</link>
             <guid isPermaLink="false">21673aaf-2ff3-44b3-8892-324c0f71c53c</guid>
             <pubDate>Thu, 06 Oct 2016 21:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Android App]]></title>
-            <description><![CDATA[<article><h1>The New Android App</h1><p>If you have checked the Play Store recently, you might have noticed that our new Android app is making its way to devices around the world. After getting a ton of helpful feedback from our founding members, we went back to the drawing board and came up with version 2.0, sporting a fresh and friendly look, a notification center and an all new and much simplified way for you to help our AI to redesign your website.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce319143-a953-4894-9afb-089d6249e022.jpg"></article>]]></description>
-            <link>http://blog.thegrid.io/the-new-android-app/index.html</link>
-            <guid isPermaLink="false">7dbc84ed-3439-49cd-a7fe-b577dbff178a</guid>
-            <pubDate>Tue, 27 Sep 2016 19:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
