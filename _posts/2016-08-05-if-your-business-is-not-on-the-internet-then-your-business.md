@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T20:23:45.208Z'
+datePublished: '2016-12-15T03:54:31.310Z'
 sourcePath: >-
   _posts/2016-08-05-if-your-business-is-not-on-the-internet-then-your-business.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-05T20:23:44.599Z'
+dateModified: '2016-12-15T03:54:30.510Z'
 title: >-
   "If your business is not on the internet, then your business will be out of
   business." - Bill Gates
@@ -19,8 +19,8 @@ publisher:
   favicon: null
 description: ''
 inLanguage: null
-inNav: false
 starred: false
+datePublishedOriginal: '2016-09-15T15:28:14.139Z'
 url: if-your-business-is-not-on-the-internet-then-your-business/index.html
 _type: Article
 
@@ -61,7 +61,7 @@ Plus, now that search engines are shifting to create a more mobile-friendly expe
 
 Websites are not social. Imagine Facebook without a news feed. That's what websites are like today, which makes it diﬃcult to create lasting connections with one's audience. As a result, websites become inactive and invisible.
 
-> _**AI website design conceptually feels very next level, an obvious, natural progression just waiting to happen." - Jason Fried, Founder of 37Signals**_
+> _**The Grid's AI website design conceptually feels very next level, an obvious, natural progression just waiting to happen." - Jason Fried, Founder of 37Signals**_
 
 \*Sources for this article:
 
