@@ -4,9 +4,9 @@
         <description><![CDATA[The Grid Blog]]></description>
         <link>http://blog.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 05:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2016 05:46:18 GMT</lastBuildDate>
         <atom:link href="http://blog.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 05:03:05 GMT</pubDate>
+        <pubDate>Tue, 20 Dec 2016 05:46:05 GMT</pubDate>
         <item>
             <title><![CDATA[Own your digital address on the internet.]]></title>
             <description><![CDATA[<article><h1>Own your digital address on the internet.</h1><p>There are two worlds on the internet: walled-gardens and the free internet. The world of walled gardens is uniform and follows a prescribed order, highly controlled and predictable….you get the picture. In the wild, outside of the walled-gardens, we get to make choices of how our sites look and what we get to call them. Your site is your domain - you own it: the content, branding, look-and-feel even down to who can see it. In the walled garden you rent space and look like all the other renters who live at the same address. In the wild, the address of your site is known as "your domain."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a55f6316-f6e9-4d05-824b-8381025c98f3.gif"></article>]]></description>
@@ -71,11 +71,11 @@
             <pubDate>Thu, 15 Dec 2016 03:54:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>Henri Bergius - Websites Designed by Artificial Intelligence</h1><p>Henri Bergius, VP engineering at The Grid, an AI that builds your website based on its content, hacker and occasional adventurer, is the creator of Create.js and NoFlo. In this second talk of the session Artificial Intelligence, Technology without Alternative?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99eb453d2f4ca09fcb950dfb60717449/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fv65HLBGLG_g%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=v65HLBGLG_g&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">d41db27b-da3c-41e1-8b2d-1f0364129715</guid>
-            <pubDate>Wed, 23 Nov 2016 16:53:25 GMT</pubDate>
+            <title><![CDATA[Smart business on your smartphone]]></title>
+            <description><![CDATA[<article><h1>Smart business on your smartphone</h1><p>Long gone are the days when small business owners had the time to sit down at a desktop device and drag-n-drop content into templates. Busy entrepreneurs have all the computer power needed in their pocket or purse to get the task done today. A core concept of the Grid from day one has been that anyone can create and modify their Gridsites from anywhere. The “anywhere” part is where mobile devices powered by Android and iOS come into play.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66b62c53-9728-4633-9116-a4d532fd7d76.jpg"></article>]]></description>
+            <link>http://blog.thegrid.io/smart-business-on-your-smartphone/index.html</link>
+            <guid isPermaLink="false">807f3f11-1a96-4117-8181-4442ba6d8b2d</guid>
+            <pubDate>Tue, 20 Dec 2016 05:46:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
