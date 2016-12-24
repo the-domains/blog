@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   We have added some new features to help you set up your site making it easy to
   get your website up and running in no time.
-dateModified: '2016-12-24T05:45:05.740Z'
-datePublished: '2016-12-24T05:45:44.633Z'
+dateModified: '2016-12-24T05:48:42.758Z'
+datePublished: '2016-12-24T05:48:43.433Z'
 title: Setting Up Your Site on the Grid
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-24-setting-up-your-site-on-the-grid.md
 starred: false
 datePublishedOriginal: '2016-12-24T05:45:44.633Z'
-sourcePath: _posts/2016-12-24-setting-up-your-site-on-the-grid.md
 url: setting-up-your-site-on-the-grid/index.html
 _type: Article
 
