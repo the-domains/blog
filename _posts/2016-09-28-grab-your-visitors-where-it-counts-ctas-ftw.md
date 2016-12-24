@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-15T03:54:31.305Z'
+datePublished: '2016-12-24T05:48:43.465Z'
 sourcePath: _posts/2016-09-28-grab-your-visitors-where-it-counts-ctas-ftw.md
 inFeed: true
 hasPage: true
 author:
   - name: 'Sept 27, 2016'
 via: {}
-dateModified: '2016-12-15T03:54:30.510Z'
+dateModified: '2016-12-24T05:48:42.758Z'
 title: 'Grab Your Visitors Where It Counts: CTAs FTW'
 publisher:
   name: Betty Bair
