@@ -1,6 +1,6 @@
 ---
 title: 'Collaboration: Website editing, together'
-dateModified: '2016-12-15T03:54:30.510Z'
+dateModified: '2016-12-24T05:48:42.758Z'
 publisher:
   name: Hannes Struss & Henri Bergius
 author:
@@ -14,7 +14,7 @@ description: >-
   making it possible to open your website content to as many contributors as you
   like.
 via: {}
-datePublished: '2016-12-15T03:54:31.282Z'
+datePublished: '2016-12-24T05:48:43.537Z'
 sourcePath: _posts/2016-11-18-collaboration-website-editing-together.md
 starred: false
 datePublishedOriginal: '2016-11-18T17:53:01.452Z'
