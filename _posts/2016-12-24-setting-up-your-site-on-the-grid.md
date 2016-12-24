@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We have added some new features to help you set up your site making it easy to
   get your website up and running in no time.
-dateModified: '2016-12-24T05:48:42.758Z'
-datePublished: '2016-12-24T05:48:43.433Z'
+dateModified: '2016-12-24T06:02:14.635Z'
+datePublished: '2016-12-24T06:02:15.149Z'
 title: Setting Up Your Site on the Grid
 author: []
 publisher: {}
@@ -43,7 +43,7 @@ After you given your site a title you will want to upload a logo. To do that cli
 Here, you'll see access to the options of your account.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9c9b824-c0ef-4d52-9e86-865466805e0a.gif)
 
-Settings:
+## Settings:
 
 * Site name
 * Upload and delete Favicon
