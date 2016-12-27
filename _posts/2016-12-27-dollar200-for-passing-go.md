@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Darren Cornwell is the head of product marketing for Uniregistry, one of the
   top 10 domain registrars globally and a strategic partner of the Grid.
-dateModified: '2016-12-27T18:50:22.908Z'
-datePublished: '2016-12-27T18:50:23.339Z'
+dateModified: '2016-12-27T18:54:32.430Z'
+datePublished: '2016-12-27T18:54:33.082Z'
 title: $200 for passing Go!
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ url: dollar200-for-passing-go/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49c8ac35-411a-4f54-86df-98d66e3da33f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2734f5c-0c76-47ef-a1f4-e232b2f9982e.jpg)
 
 # **$200 for passing Go!**
 
