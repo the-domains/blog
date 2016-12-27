@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/iNpzlQxkiOo'
 title: The Five Minute Website on The Grid
-datePublished: '2016-12-24T05:48:43.536Z'
-dateModified: '2016-12-24T05:48:42.758Z'
+datePublished: '2016-12-27T17:38:57.353Z'
+dateModified: '2016-12-27T17:38:56.480Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-18-the-five-minute-website-on-the-grid.md
