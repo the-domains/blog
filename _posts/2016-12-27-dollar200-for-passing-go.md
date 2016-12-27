@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Darren Cornwell does product for Uniregistry, one of the top domain registrars
   globally and a strategic partner of the Grid.
-dateModified: '2016-12-27T20:44:16.767Z'
-datePublished: '2016-12-27T20:44:17.877Z'
-title: “Pass go. Collect $200”
+dateModified: '2016-12-27T20:44:40.089Z'
+datePublished: '2016-12-27T20:44:40.972Z'
+title: Pass go. Collect $200
 author: []
 publisher: {}
 via: {}
@@ -19,7 +19,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2734f5c-0c76-47ef-a1f4-e232b2f9982e.jpg)
 
-# "Pass go. Collect $200"
+# Pass go. Collect $200
 
 **[Darren Cornwell][0] does product for [Uniregistry][1], one of the top domain registrars globally and a strategic partner of the Grid.**
 
