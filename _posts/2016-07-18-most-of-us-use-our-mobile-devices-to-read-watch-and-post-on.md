@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-24T05:48:43.452Z'
+datePublished: '2016-12-27T17:38:57.277Z'
 sourcePath: >-
   _posts/2016-07-18-most-of-us-use-our-mobile-devices-to-read-watch-and-post-on.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-12-24T05:48:42.758Z'
+dateModified: '2016-12-27T17:38:56.480Z'
 title: Power of Mobile.
 publisher:
   name: Jeff Woods
