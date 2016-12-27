@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -10,16 +9,18 @@ description: >-
   it’s something in between a publisher and a platform — something that weaves
   together the strengths of both. So why is this happening now and why is it
   important.
-datePublished: '2016-07-11T15:36:29.789Z'
-dateModified: '2016-07-11T15:36:28.885Z'
+datePublished: '2016-12-27T17:38:57.313Z'
+dateModified: '2016-12-27T17:38:56.480Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
     url: ''
 title: A Small Business Owner’s Down-and-Dirty Guide to “Platishing”
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-09-30T04:12:02.909Z'
 url: content-is-the-present-and-future-of-marketing/index.html
 _type: Article
 
