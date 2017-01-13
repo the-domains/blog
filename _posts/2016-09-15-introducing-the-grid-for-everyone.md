@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-27T17:38:57.270Z'
+datePublished: '2017-01-13T18:34:34.094Z'
 sourcePath: _posts/2016-09-15-introducing-the-grid-for-everyone.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-27T17:38:56.480Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 title: Introducing The Grid for Everyone
 publisher: {}
 description: “The future is not a destination - it is a direction.”
