@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-27T17:38:57.312Z'
+datePublished: '2017-01-13T18:34:33.930Z'
 sourcePath: _posts/2016-09-29-the-wizard-of-gridsites-molly-your-new-ai-bff.md
 inFeed: true
 hasPage: true
 author:
   - name: 'Sept 29, 2016'
 via: {}
-dateModified: '2016-12-27T17:38:56.480Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 title: 'The Wizard of Gridsites: Molly your new AI BFF'
 publisher:
   name: Jeff Woods
