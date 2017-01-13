@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-27T17:38:57.309Z'
+datePublished: '2017-01-13T18:34:34.081Z'
 sourcePath: _posts/2016-08-20-the-new-android-app.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-12-27T17:38:56.480Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 title: The New Android App
 publisher: {}
 description: >-
