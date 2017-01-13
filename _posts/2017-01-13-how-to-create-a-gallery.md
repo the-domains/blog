@@ -5,16 +5,16 @@ description: >-
   post. This will create a gallery of the images in that post. You can do a
   redesign to change the outcome, for example, to display your images in
   circles, columns, etc.
-dateModified: '2017-01-13T18:33:58.707Z'
-datePublished: '2017-01-13T18:34:16.039Z'
+dateModified: '2017-01-13T18:34:32.021Z'
+datePublished: '2017-01-13T18:34:34.082Z'
 title: How to create a gallery
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-13-how-to-create-a-gallery.md
 starred: false
 datePublishedOriginal: '2017-01-13T18:34:16.039Z'
-sourcePath: _posts/2017-01-13-how-to-create-a-gallery.md
 url: how-to-create-a-gallery/index.html
 _type: Article
 
