@@ -9,8 +9,8 @@ description: >-
   it’s something in between a publisher and a platform — something that weaves
   together the strengths of both. So why is this happening now and why is it
   important.
-datePublished: '2016-12-27T17:38:57.313Z'
-dateModified: '2016-12-27T17:38:56.480Z'
+datePublished: '2017-01-13T18:34:34.109Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 sourcePath: _posts/2016-05-17-so-why-is-this-happening-now-and-why-is-it-important.md
 author:
   - name: Jeff Woods
