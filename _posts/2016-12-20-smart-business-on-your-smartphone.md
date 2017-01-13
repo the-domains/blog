@@ -7,8 +7,8 @@ description: >-
   done today. A core concept of the Grid from day one has been that anyone can
   create and modify their Gridsites from anywhere. The “anywhere” part is where
   mobile devices powered by Android and iOS come into play.
-dateModified: '2016-12-27T17:38:56.480Z'
-datePublished: '2016-12-27T17:38:57.296Z'
+dateModified: '2017-01-13T18:34:32.021Z'
+datePublished: '2017-01-13T18:34:33.883Z'
 title: Smart business on your smartphone
 author: []
 publisher: {}
