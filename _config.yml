@@ -1,16 +1,16 @@
-layout_spectrum: 0.8096432893071324
-typography_spectrum: 0.6649284516461194
+layout_spectrum: 0.5470254963172582
+typography_spectrum: 0.6110486368716943
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.6761081269942224
-  lightness: 0.2962971613742411
-  saturation: 0.3878569609951228
-  rhythmicContrast: 0.9791581698227674
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.06043389030344932
+  lightness: 0.7319577400445347
+  saturation: 0.5712721562997835
+  rhythmicContrast: 0.5713368248335537
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/70f0683a-998a-4fb4-b54d-be1bbfc5b7a2.png
@@ -74,7 +74,6 @@ content:
         Meet your new AI web designer. 1. Hire her & get a free domain name. 2.
         Add content & wait a few seconds. 3. Click "redesign" until she crafts
         your website just right. She designed https://thegrid.io/
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
