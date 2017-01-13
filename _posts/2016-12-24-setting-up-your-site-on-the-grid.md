@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We have added some new features to help you set up your site making it easy to
   get your website up and running in no time.
-dateModified: '2016-12-27T17:38:56.480Z'
-datePublished: '2016-12-27T17:38:57.302Z'
+dateModified: '2017-01-13T18:34:32.021Z'
+datePublished: '2017-01-13T18:34:34.052Z'
 title: Setting Up Your Site on the Grid
 author: []
 publisher: {}
