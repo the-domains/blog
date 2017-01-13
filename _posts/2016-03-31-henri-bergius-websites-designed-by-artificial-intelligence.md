@@ -19,8 +19,8 @@ description: >-
   based on its content, hacker and occasional adventurer, is the creator of
   Create.js and NoFlo. In this second talk of the session Artificial
   Intelligence, Technology without Alternative?
-datePublished: '2016-12-27T17:38:57.295Z'
-dateModified: '2016-12-27T17:38:56.480Z'
+datePublished: '2017-01-13T18:34:34.047Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 author:
   - name: liftconference
     url: 'https://www.youtube.com/user/liftconference'
