@@ -5,8 +5,8 @@ description: >-
   post. This will create a gallery of the images in that post. You can do a
   redesign to change the outcome, for example, to display your images in
   circles, columns, etc.
-dateModified: '2017-01-13T18:44:07.830Z'
-datePublished: '2017-01-13T18:44:08.422Z'
+dateModified: '2017-01-13T18:44:11.928Z'
+datePublished: '2017-01-13T18:44:12.498Z'
 title: How To Create A Gallery
 author: []
 publisher: {}
