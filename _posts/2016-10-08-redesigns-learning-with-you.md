@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-27T17:38:57.373Z'
+datePublished: '2017-01-13T18:34:34.110Z'
 sourcePath: _posts/2016-10-08-redesigns-learning-with-you.md
 inFeed: true
 hasPage: true
 author:
   - name: 'October 7, 2016'
 via: {}
-dateModified: '2016-12-27T17:38:56.480Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 title: 'Redesigns: Learning with You'
 publisher:
   name: Henri Bergius
