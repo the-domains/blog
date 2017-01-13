@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-24T05:48:43.461Z'
+datePublished: '2017-01-13T18:34:34.080Z'
 sourcePath: >-
   _posts/2016-08-05-if-your-business-is-not-on-the-internet-then-your-business.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-12-24T05:48:42.758Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 title: >-
   "If your business is not on the internet, then your business will be out of
   business." - Bill Gates
