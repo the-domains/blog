@@ -5,9 +5,9 @@ description: >-
   post. This will create a gallery of the images in that post. You can do a
   redesign to change the outcome, for example, to display your images in
   circles, columns, etc.
-dateModified: '2017-01-13T18:34:32.021Z'
-datePublished: '2017-01-13T18:34:34.082Z'
-title: How to create a gallery
+dateModified: '2017-01-13T18:44:07.830Z'
+datePublished: '2017-01-13T18:44:08.422Z'
+title: How To Create A Gallery
 author: []
 publisher: {}
 via: {}
@@ -19,7 +19,7 @@ url: how-to-create-a-gallery/index.html
 _type: Article
 
 ---
-# How to create a gallery
+# How To Create A Gallery
 
 You can create a gallery in The Grid editor by uploading 9+ images in one post. This will create a gallery of the images in that post. You can do a redesign to change the outcome, for example, to display your images in circles, columns, etc.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d937308-de15-4f79-bbb5-b81603edcbe3.gif)
