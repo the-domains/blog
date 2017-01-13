@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-27T17:38:57.315Z'
+datePublished: '2017-01-13T18:34:34.094Z'
 sourcePath: _posts/2016-09-21-when-a-magician-wants-a-website.md
 inFeed: true
 hasPage: true
 author:
   - name: 'September 21, 2016'
 via: {}
-dateModified: '2016-12-27T17:38:56.480Z'
+dateModified: '2017-01-13T18:34:32.021Z'
 title: When a magician wants a website.
 publisher:
   name: Nick Jones
